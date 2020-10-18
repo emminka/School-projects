@@ -1,2 +1,1 @@
-### proj1:
-...
+Project for Graphics Design

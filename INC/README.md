@@ -1,2 +1,5 @@
-### proj1:
-...
+### zprava:
+review of project
+
+### fsm:
+code of project
