@@ -1,11 +1,14 @@
-### proj1:
-Work with a text
+## Introduction to Programming Systems
+Project in C programing language.
 
-### proj2:
+### Project 1:
+Working with a text
+
+### Project 2:
 Iterative operations
 
-### proj3:
+### Project 3:
 Work with data structures
 
-### proj4:
-Documentation of code
+### Project 4:
+Code documentation with Doxygen
