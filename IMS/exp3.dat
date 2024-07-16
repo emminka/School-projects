@@ -1,0 +1,682 @@
+Day   0 -      no restrictions: current guests:     8/   26, occupancy: 0.307692, newly infected:       3, currently infected:       3, total fully vaccined:       0, recovered:       0, ballance:    -2875
+Day   1 -      no restrictions: current guests:    14/   26, occupancy: 0.538462, newly infected:       0, currently infected:       3, total fully vaccined:       0, recovered:       0, ballance:    -4350
+Day   2 -      no restrictions: current guests:    13/   26, occupancy: 0.500000, newly infected:       2, currently infected:       5, total fully vaccined:       0, recovered:       0, ballance:    -7225
+Day   3 -      no restrictions: current guests:    17/   26, occupancy: 0.653846, newly infected:       3, currently infected:       8, total fully vaccined:       0, recovered:       0, ballance:   -10100
+Day   4 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:       4, currently infected:      12, total fully vaccined:       0, recovered:       0, ballance:   -10875
+Day   5 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:       6, currently infected:      18, total fully vaccined:       0, recovered:       0, ballance:   -13750
+Day   6 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:       1, currently infected:      19, total fully vaccined:       0, recovered:       0, ballance:    -9625
+Day   7 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:      12, currently infected:      31, total fully vaccined:       0, recovered:       0, ballance:    -9700
+Day   8 -      no restrictions: current guests:    16/   26, occupancy: 0.615385, newly infected:       0, currently infected:      31, total fully vaccined:       0, recovered:       0, ballance:   -11175
+Day   9 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:      10, currently infected:      41, total fully vaccined:       0, recovered:       0, ballance:    40550
+Day  10 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:      50, currently infected:      91, total fully vaccined:       0, recovered:       0, ballance:    42575
+Day  11 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:       3, currently infected:      94, total fully vaccined:       0, recovered:       0, ballance:    50200
+Day  12 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      47, currently infected:     141, total fully vaccined:       0, recovered:       0, ballance:    47325
+Day  13 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:      48, currently infected:     189, total fully vaccined:       0, recovered:       0, ballance:    44450
+Day  14 -      no restrictions: current guests:    19/   26, occupancy: 0.730769, newly infected:      64, currently infected:     250, total fully vaccined:       0, recovered:       3, ballance:    42275
+Day  15 -      no restrictions: current guests:    19/   26, occupancy: 0.730769, newly infected:      45, currently infected:     295, total fully vaccined:       0, recovered:       3, ballance:    39400
+Day  16 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      98, currently infected:     391, total fully vaccined:       0, recovered:       5, ballance:    40725
+Day  17 -      no restrictions: current guests:    19/   26, occupancy: 0.730769, newly infected:      68, currently infected:     456, total fully vaccined:       0, recovered:       8, ballance:    51850
+Day  18 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:     230, currently infected:     682, total fully vaccined:       0, recovered:      12, ballance:    51075
+Day  19 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:     139, currently infected:     815, total fully vaccined:       0, recovered:      18, ballance:    53800
+Day  20 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     162, currently infected:     976, total fully vaccined:       0, recovered:      19, ballance:    64925
+Day  21 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     125, currently infected:    1089, total fully vaccined:       0, recovered:      31, ballance:    78850
+Day  22 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:     116, currently infected:    1205, total fully vaccined:       0, recovered:      31, ballance:    75975
+Day  23 -      no restrictions: current guests:    14/   26, occupancy: 0.538462, newly infected:     158, currently infected:    1353, total fully vaccined:       0, recovered:      41, ballance:    74500
+Day  24 -      no restrictions: current guests:    15/   26, occupancy: 0.576923, newly infected:     260, currently infected:    1563, total fully vaccined:       0, recovered:      91, ballance:    71625
+Day  25 -      no restrictions: current guests:    14/   26, occupancy: 0.538462, newly infected:     271, currently infected:    1831, total fully vaccined:       0, recovered:      94, ballance:    88350
+Day  26 -      no restrictions: current guests:    17/   26, occupancy: 0.653846, newly infected:     354, currently infected:    2138, total fully vaccined:       0, recovered:     141, ballance:    95275
+Day  27 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:     352, currently infected:    2442, total fully vaccined:       0, recovered:     189, ballance:    92400
+Day  28 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     186, currently infected:    2564, total fully vaccined:       0, recovered:     253, ballance:    91625
+Day  29 -      no restrictions: current guests:    17/   26, occupancy: 0.653846, newly infected:     184, currently infected:    2703, total fully vaccined:       0, recovered:     298, ballance:    90150
+Day  30 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:     307, currently infected:    2912, total fully vaccined:       0, recovered:     396, ballance:    98475
+Day  31 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:     200, currently infected:    3044, total fully vaccined:       0, recovered:     464, ballance:    95600
+Day  32 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:     350, currently infected:    3164, total fully vaccined:       0, recovered:     694, ballance:   102525
+Day  33 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:     233, currently infected:    3258, total fully vaccined:       0, recovered:     833, ballance:   120650
+Day  34 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:     381, currently infected:    3477, total fully vaccined:       0, recovered:     995, ballance:   117775
+Day  35 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     115, currently infected:    3467, total fully vaccined:       0, recovered:    1120, ballance:   121200
+Day  36 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     235, currently infected:    3586, total fully vaccined:       0, recovered:    1236, ballance:   156125
+Day  37 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     195, currently infected:    3623, total fully vaccined:       0, recovered:    1394, ballance:   153250
+Day  38 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     295, currently infected:    3658, total fully vaccined:       0, recovered:    1654, ballance:   154575
+Day  39 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:     257, currently infected:    3644, total fully vaccined:       0, recovered:    1925, ballance:   152400
+Day  40 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:     163, currently infected:    3453, total fully vaccined:       0, recovered:    2279, ballance:   149525
+Day  41 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:      99, currently infected:    3200, total fully vaccined:       0, recovered:    2631, ballance:   148050
+Day  42 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     160, currently infected:    3174, total fully vaccined:       0, recovered:    2817, ballance:   154975
+Day  43 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      68, currently infected:    3058, total fully vaccined:       0, recovered:    3001, ballance:   156300
+Day  44 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      52, currently infected:    2803, total fully vaccined:       0, recovered:    3308, ballance:   173025
+Day  45 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     105, currently infected:    2708, total fully vaccined:       0, recovered:    3508, ballance:   181350
+Day  46 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:     217, currently infected:    2575, total fully vaccined:       0, recovered:    3858, ballance:   181275
+Day  47 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:     116, currently infected:    2458, total fully vaccined:       0, recovered:    4091, ballance:   178400
+Day  48 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:      57, currently infected:    2134, total fully vaccined:       0, recovered:    4472, ballance:   175525
+Day  49 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:     140, currently infected:    2159, total fully vaccined:       0, recovered:    4587, ballance:   172650
+Day  50 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     154, currently infected:    2078, total fully vaccined:       0, recovered:    4822, ballance:   171175
+Day  51 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     133, currently infected:    2016, total fully vaccined:       0, recovered:    5017, ballance:   176700
+Day  52 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      99, currently infected:    1820, total fully vaccined:       0, recovered:    5312, ballance:   173825
+Day  53 -      no restrictions: current guests:    15/   26, occupancy: 0.576923, newly infected:      55, currently infected:    1618, total fully vaccined:       0, recovered:    5569, ballance:   189850
+Day  54 -      no restrictions: current guests:    16/   26, occupancy: 0.615385, newly infected:      86, currently infected:    1541, total fully vaccined:       0, recovered:    5732, ballance:   193275
+Day  55 -      no restrictions: current guests:    15/   26, occupancy: 0.576923, newly infected:      79, currently infected:    1521, total fully vaccined:       0, recovered:    5831, ballance:   200900
+Day  56 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      52, currently infected:    1413, total fully vaccined:       0, recovered:    5991, ballance:   203625
+Day  57 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      41, currently infected:    1386, total fully vaccined:       0, recovered:    6059, ballance:   203550
+Day  58 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:      59, currently infected:    1393, total fully vaccined:       0, recovered:    6111, ballance:   202775
+Day  59 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      75, currently infected:    1363, total fully vaccined:       0, recovered:    6216, ballance:   239100
+Day  60 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     103, currently infected:    1249, total fully vaccined:       0, recovered:    6433, ballance:   238325
+Day  61 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      55, currently infected:    1188, total fully vaccined:       0, recovered:    6549, ballance:   235450
+Day  62 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      18, currently infected:    1149, total fully vaccined:       0, recovered:    6606, ballance:   242375
+Day  63 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      26, currently infected:    1035, total fully vaccined:       0, recovered:    6746, ballance:   242300
+Day  64 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      38, currently infected:     919, total fully vaccined:       0, recovered:    6900, ballance:   239425
+Day  65 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      77, currently infected:     863, total fully vaccined:       0, recovered:    7033, ballance:   236550
+Day  66 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      78, currently infected:     842, total fully vaccined:       0, recovered:    7132, ballance:   235075
+Day  67 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      57, currently infected:     844, total fully vaccined:       0, recovered:    7187, ballance:   233600
+Day  68 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:      46, currently infected:     804, total fully vaccined:       0, recovered:    7273, ballance:   230725
+Day  69 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      18, currently infected:     743, total fully vaccined:       0, recovered:    7352, ballance:   227850
+Day  70 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      28, currently infected:     719, total fully vaccined:       0, recovered:    7404, ballance:   234775
+Day  71 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:      53, currently infected:     731, total fully vaccined:       0, recovered:    7445, ballance:   231900
+Day  72 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:      45, currently infected:     717, total fully vaccined:       0, recovered:    7504, ballance:   229025
+Day  73 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:      48, currently infected:     690, total fully vaccined:       0, recovered:    7579, ballance:   227550
+Day  74 -      no restrictions: current guests:    13/   26, occupancy: 0.500000, newly infected:      82, currently infected:     669, total fully vaccined:       0, recovered:    7682, ballance:   226775
+Day  75 -      no restrictions: current guests:    14/   26, occupancy: 0.538462, newly infected:      55, currently infected:     669, total fully vaccined:       0, recovered:    7737, ballance:   225300
+Day  76 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:      49, currently infected:     700, total fully vaccined:       0, recovered:    7755, ballance:   232925
+Day  77 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:      20, currently infected:     694, total fully vaccined:       0, recovered:    7781, ballance:   230050
+Day  78 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     111, currently infected:     767, total fully vaccined:       0, recovered:    7819, ballance:   227875
+Day  79 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      61, currently infected:     751, total fully vaccined:       0, recovered:    7896, ballance:   246000
+Day  80 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      74, currently infected:     747, total fully vaccined:       0, recovered:    7974, ballance:   243125
+Day  81 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      33, currently infected:     723, total fully vaccined:       0, recovered:    8031, ballance:   248650
+Day  82 -      no restrictions: current guests:    14/   26, occupancy: 0.538462, newly infected:      59, currently infected:     736, total fully vaccined:       0, recovered:    8077, ballance:   245775
+Day  83 -      no restrictions: current guests:    14/   26, occupancy: 0.538462, newly infected:      77, currently infected:     795, total fully vaccined:       0, recovered:    8095, ballance:   243600
+Day  84 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:      65, currently infected:     832, total fully vaccined:       0, recovered:    8123, ballance:   245625
+Day  85 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:      47, currently infected:     826, total fully vaccined:       0, recovered:    8176, ballance:   246250
+Day  86 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:      48, currently infected:     829, total fully vaccined:       0, recovered:    8221, ballance:   251775
+Day  87 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      36, currently infected:     817, total fully vaccined:       0, recovered:    8269, ballance:   256600
+Day  88 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      54, currently infected:     789, total fully vaccined:       0, recovered:    8351, ballance:   255825
+Day  89 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:      56, currently infected:     790, total fully vaccined:       0, recovered:    8406, ballance:   254350
+Day  90 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      34, currently infected:     775, total fully vaccined:       0, recovered:    8455, ballance:   252175
+Day  91 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:      38, currently infected:     793, total fully vaccined:       0, recovered:    8475, ballance:   257700
+Day  92 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:      34, currently infected:     716, total fully vaccined:       0, recovered:    8586, ballance:   256925
+Day  93 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:      62, currently infected:     717, total fully vaccined:       0, recovered:    8647, ballance:   259650
+Day  94 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:      74, currently infected:     717, total fully vaccined:       0, recovered:    8721, ballance:   256775
+Day  95 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:      56, currently infected:     740, total fully vaccined:       0, recovered:    8754, ballance:   254600
+Day  96 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      35, currently infected:     716, total fully vaccined:       0, recovered:    8813, ballance:   286725
+Day  97 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:      38, currently infected:     677, total fully vaccined:       0, recovered:    8890, ballance:   283850
+Day  98 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      61, currently infected:     673, total fully vaccined:       0, recovered:    8955, ballance:   285175
+Day  99 -      no restrictions: current guests:    19/   26, occupancy: 0.730769, newly infected:      69, currently infected:     695, total fully vaccined:       0, recovered:    9002, ballance:   282300
+Day 100 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:      54, currently infected:     701, total fully vaccined:       0, recovered:    9050, ballance:   279425
+Day 101 -      no restrictions: current guests:     9/   26, occupancy: 0.346154, newly infected:      73, currently infected:     738, total fully vaccined:       0, recovered:    9086, ballance:   276550
+Day 102 -      no restrictions: current guests:    12/   26, occupancy: 0.461538, newly infected:      31, currently infected:     715, total fully vaccined:       0, recovered:    9140, ballance:   273675
+Day 103 -      no restrictions: current guests:    13/   26, occupancy: 0.500000, newly infected:      83, currently infected:     742, total fully vaccined:       0, recovered:    9196, ballance:   272200
+Day 104 -      no restrictions: current guests:    12/   26, occupancy: 0.461538, newly infected:      53, currently infected:     761, total fully vaccined:       0, recovered:    9230, ballance:   284725
+Day 105 -      no restrictions: current guests:    19/   26, occupancy: 0.730769, newly infected:      33, currently infected:     756, total fully vaccined:       0, recovered:    9268, ballance:   298650
+Day 106 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      40, currently infected:     762, total fully vaccined:       0, recovered:    9302, ballance:   296475
+Day 107 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:      47, currently infected:     747, total fully vaccined:       0, recovered:    9364, ballance:   293600
+Day 108 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      51, currently infected:     724, total fully vaccined:       0, recovered:    9438, ballance:   290725
+Day 109 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     118, currently infected:     786, total fully vaccined:       0, recovered:    9494, ballance:   287850
+Day 110 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     126, currently infected:     877, total fully vaccined:       0, recovered:    9529, ballance:   287775
+Day 111 -      no restrictions: current guests:    18/   26, occupancy: 0.692308, newly infected:      42, currently infected:     881, total fully vaccined:       0, recovered:    9567, ballance:   284900
+Day 112 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:      50, currently infected:     870, total fully vaccined:       0, recovered:    9628, ballance:   284825
+Day 113 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:      25, currently infected:     826, total fully vaccined:       0, recovered:    9697, ballance:   281950
+Day 114 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     127, currently infected:     899, total fully vaccined:       0, recovered:    9751, ballance:   281175
+Day 115 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     127, currently infected:     953, total fully vaccined:       0, recovered:    9824, ballance:   281800
+Day 116 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      93, currently infected:    1015, total fully vaccined:       0, recovered:    9855, ballance:   279625
+Day 117 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:     168, currently infected:    1100, total fully vaccined:       0, recovered:    9938, ballance:   291450
+Day 118 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:     260, currently infected:    1307, total fully vaccined:       0, recovered:    9991, ballance:   288575
+Day 119 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     305, currently infected:    1579, total fully vaccined:       0, recovered:   10024, ballance:   291300
+Day 120 -      no restrictions: current guests:    16/   26, occupancy: 0.615385, newly infected:     202, currently infected:    1741, total fully vaccined:       0, recovered:   10064, ballance:   291925
+Day 121 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:     149, currently infected:    1843, total fully vaccined:       0, recovered:   10111, ballance:   293950
+Day 122 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      92, currently infected:    1884, total fully vaccined:       0, recovered:   10162, ballance:   295275
+Day 123 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     132, currently infected:    1898, total fully vaccined:       0, recovered:   10280, ballance:   317600
+Day 124 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:     141, currently infected:    1913, total fully vaccined:       0, recovered:   10406, ballance:   314725
+Day 125 -      no restrictions: current guests:    17/   26, occupancy: 0.653846, newly infected:     121, currently infected:    1992, total fully vaccined:       0, recovered:   10448, ballance:   311850
+Day 126 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:      75, currently infected:    2017, total fully vaccined:       0, recovered:   10498, ballance:   329975
+Day 127 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:      51, currently infected:    2043, total fully vaccined:       0, recovered:   10523, ballance:   335500
+Day 128 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:     119, currently infected:    2035, total fully vaccined:       0, recovered:   10650, ballance:   332625
+Day 129 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     129, currently infected:    2037, total fully vaccined:       0, recovered:   10777, ballance:   329750
+Day 130 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     105, currently infected:    2049, total fully vaccined:       0, recovered:   10870, ballance:   327575
+Day 131 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:      82, currently infected:    1963, total fully vaccined:       0, recovered:   11038, ballance:   324700
+Day 132 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:     114, currently infected:    1817, total fully vaccined:       0, recovered:   11298, ballance:   324625
+Day 133 -      no restrictions: current guests:    17/   26, occupancy: 0.653846, newly infected:      59, currently infected:    1571, total fully vaccined:       0, recovered:   11603, ballance:   323150
+Day 134 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      64, currently infected:    1433, total fully vaccined:       0, recovered:   11805, ballance:   341275
+Day 135 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     103, currently infected:    1387, total fully vaccined:       0, recovered:   11954, ballance:   351000
+Day 136 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     134, currently infected:    1429, total fully vaccined:       0, recovered:   12046, ballance:   348125
+Day 137 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     137, currently infected:    1434, total fully vaccined:       0, recovered:   12178, ballance:   351550
+Day 138 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     130, currently infected:    1423, total fully vaccined:       0, recovered:   12319, ballance:   352875
+Day 139 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     113, currently infected:    1415, total fully vaccined:       0, recovered:   12440, ballance:   350000
+Day 140 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:      90, currently infected:    1430, total fully vaccined:       0, recovered:   12515, ballance:   351325
+Day 141 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     153, currently infected:    1532, total fully vaccined:       0, recovered:   12566, ballance:   348450
+Day 142 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     226, currently infected:    1639, total fully vaccined:       0, recovered:   12685, ballance:   346275
+Day 143 -      no restrictions: current guests:    18/   26, occupancy: 0.692308, newly infected:     246, currently infected:    1756, total fully vaccined:       0, recovered:   12814, ballance:   382600
+Day 144 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:     230, currently infected:    1881, total fully vaccined:       0, recovered:   12919, ballance:   379725
+Day 145 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     281, currently infected:    2080, total fully vaccined:       0, recovered:   13001, ballance:   396450
+Day 146 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     131, currently infected:    2097, total fully vaccined:       0, recovered:   13115, ballance:   394975
+Day 147 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     112, currently infected:    2150, total fully vaccined:       0, recovered:   13174, ballance:   396300
+Day 148 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:     192, currently infected:    2278, total fully vaccined:       0, recovered:   13238, ballance:   397625
+Day 149 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     283, currently infected:    2458, total fully vaccined:       0, recovered:   13341, ballance:   394750
+Day 150 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:     294, currently infected:    2618, total fully vaccined:       0, recovered:   13475, ballance:   421275
+Day 151 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     278, currently infected:    2759, total fully vaccined:       0, recovered:   13612, ballance:   419100
+Day 152 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     203, currently infected:    2832, total fully vaccined:       0, recovered:   13742, ballance:   417625
+Day 153 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     125, currently infected:    2844, total fully vaccined:       0, recovered:   13855, ballance:   424550
+Day 154 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     101, currently infected:    2855, total fully vaccined:       0, recovered:   13945, ballance:   421675
+Day 155 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     208, currently infected:    2910, total fully vaccined:       0, recovered:   14098, ballance:   425100
+Day 156 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     278, currently infected:    2962, total fully vaccined:       0, recovered:   14324, ballance:   422225
+Day 157 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:     243, currently infected:    2959, total fully vaccined:       0, recovered:   14570, ballance:   419350
+Day 158 -      no restrictions: current guests:    16/   26, occupancy: 0.615385, newly infected:     202, currently infected:    2931, total fully vaccined:       0, recovered:   14800, ballance:   417875
+Day 159 -      no restrictions: current guests:     7/   26, occupancy: 0.269231, newly infected:     329, currently infected:    2979, total fully vaccined:       0, recovered:   15081, ballance:   415700
+Day 160 -      no restrictions: current guests:     9/   26, occupancy: 0.346154, newly infected:     175, currently infected:    3023, total fully vaccined:       0, recovered:   15212, ballance:   412825
+Day 161 -      no restrictions: current guests:    16/   26, occupancy: 0.615385, newly infected:     118, currently infected:    3029, total fully vaccined:       0, recovered:   15324, ballance:   412050
+Day 162 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:     141, currently infected:    2978, total fully vaccined:       0, recovered:   15516, ballance:   423875
+Day 163 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     289, currently infected:    2984, total fully vaccined:       0, recovered:   15799, ballance:   425900
+Day 164 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:     292, currently infected:    2982, total fully vaccined:       0, recovered:   16093, ballance:   425125
+Day 165 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:     326, currently infected:    3030, total fully vaccined:       0, recovered:   16371, ballance:   424350
+Day 166 -      no restrictions: current guests:    12/   26, occupancy: 0.461538, newly infected:     292, currently infected:    3119, total fully vaccined:       0, recovered:   16574, ballance:   421475
+Day 167 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     198, currently infected:    3192, total fully vaccined:       0, recovered:   16699, ballance:   424200
+Day 168 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     121, currently infected:    3212, total fully vaccined:       0, recovered:   16800, ballance:   431125
+Day 169 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:     190, currently infected:    3194, total fully vaccined:       0, recovered:   17008, ballance:   428250
+Day 170 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     281, currently infected:    3197, total fully vaccined:       0, recovered:   17286, ballance:   425375
+Day 171 -      no restrictions: current guests:    19/   26, occupancy: 0.730769, newly infected:     315, currently infected:    3269, total fully vaccined:       0, recovered:   17529, ballance:   424600
+Day 172 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     247, currently infected:    3314, total fully vaccined:       0, recovered:   17731, ballance:   463725
+Day 173 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     506, currently infected:    3491, total fully vaccined:       0, recovered:   18060, ballance:   460850
+Day 174 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     239, currently infected:    3555, total fully vaccined:       0, recovered:   18235, ballance:   459375
+Day 175 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     133, currently infected:    3570, total fully vaccined:       0, recovered:   18353, ballance:   467000
+Day 176 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:     258, currently infected:    3687, total fully vaccined:       0, recovered:   18494, ballance:   480925
+Day 177 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     367, currently infected:    3765, total fully vaccined:       0, recovered:   18783, ballance:   490650
+Day 178 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     403, currently infected:    3876, total fully vaccined:       0, recovered:   19075, ballance:   491975
+Day 179 -      no restrictions: current guests:    24/   26, occupancy: 0.923077, newly infected:     218, currently infected:    3768, total fully vaccined:       0, recovered:   19401, ballance:   489100
+Day 180 -      no restrictions: current guests:    17/   26, occupancy: 0.653846, newly infected:     608, currently infected:    4084, total fully vaccined:       0, recovered:   19693, ballance:   486225
+Day 181 -      no restrictions: current guests:    20/   26, occupancy: 0.769231, newly infected:     317, currently infected:    4203, total fully vaccined:       0, recovered:   19891, ballance:   483350
+Day 182 -      no restrictions: current guests:    22/   26, occupancy: 0.846154, newly infected:     273, currently infected:    4355, total fully vaccined:       0, recovered:   20012, ballance:   539275
+Day 183 -      no restrictions: current guests:    21/   26, occupancy: 0.807692, newly infected:     251, currently infected:    4416, total fully vaccined:       0, recovered:   20202, ballance:   537100
+Day 184 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     499, currently infected:    4634, total fully vaccined:       0, recovered:   20483, ballance:   534925
+Day 185 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     656, currently infected:    4975, total fully vaccined:       0, recovered:   20798, ballance:   534150
+Day 186 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     679, currently infected:    5407, total fully vaccined:       0, recovered:   21045, ballance:   531275
+Day 187 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     797, currently infected:    5698, total fully vaccined:       0, recovered:   21551, ballance:   528400
+Day 188 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:     503, currently infected:    5962, total fully vaccined:       0, recovered:   21790, ballance:   526925
+Day 189 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:     404, currently infected:    6233, total fully vaccined:       0, recovered:   21923, ballance:   524750
+Day 190 -      no restrictions: current guests:    18/   26, occupancy: 0.692308, newly infected:     560, currently infected:    6535, total fully vaccined:       0, recovered:   22181, ballance:   522575
+Day 191 -      no restrictions: current guests:    23/   26, occupancy: 0.884615, newly infected:    1161, currently infected:    7329, total fully vaccined:       0, recovered:   22548, ballance:   542800
+Day 192 -      no restrictions: current guests:    26/   26, occupancy: 1.000000, newly infected:    1159, currently infected:    8085, total fully vaccined:       0, recovered:   22951, ballance:   542025
+Day 193 -      no restrictions: current guests:    25/   26, occupancy: 0.961538, newly infected:    1377, currently infected:    9244, total fully vaccined:       0, recovered:   23169, ballance:   539150
+Day 194 -               closed: current guests:    24/    0, occupancy: 0.000000, newly infected:    1447, currently infected:   10083, total fully vaccined:       0, recovered:   23777, ballance:   536275
+Day 195 -               closed: current guests:    22/    0, occupancy: 0.000000, newly infected:    1541, currently infected:   11307, total fully vaccined:       0, recovered:   24094, ballance:   533400
+Day 196 -               closed: current guests:    13/    0, occupancy: 0.000000, newly infected:     787, currently infected:   11821, total fully vaccined:       0, recovered:   24367, ballance:   530525
+Day 197 -               closed: current guests:    12/    0, occupancy: 0.000000, newly infected:    1034, currently infected:   12604, total fully vaccined:       0, recovered:   24618, ballance:   527650
+Day 198 -               closed: current guests:    12/    0, occupancy: 0.000000, newly infected:    1674, currently infected:   13779, total fully vaccined:       0, recovered:   25117, ballance:   524775
+Day 199 -               closed: current guests:    12/    0, occupancy: 0.000000, newly infected:    2136, currently infected:   15259, total fully vaccined:       0, recovered:   25773, ballance:   521900
+Day 200 -               closed: current guests:    12/    0, occupancy: 0.000000, newly infected:    3123, currently infected:   17703, total fully vaccined:       0, recovered:   26452, ballance:   519025
+Day 201 -               closed: current guests:    12/    0, occupancy: 0.000000, newly infected:    2107, currently infected:   19013, total fully vaccined:       0, recovered:   27249, ballance:   516150
+Day 202 -               closed: current guests:     9/    0, occupancy: 0.000000, newly infected:    2044, currently infected:   20554, total fully vaccined:       0, recovered:   27752, ballance:   513275
+Day 203 -               closed: current guests:     4/    0, occupancy: 0.000000, newly infected:     984, currently infected:   21134, total fully vaccined:       0, recovered:   28156, ballance:   510400
+Day 204 -               closed: current guests:     4/    0, occupancy: 0.000000, newly infected:    1474, currently infected:   22048, total fully vaccined:       0, recovered:   28716, ballance:   507525
+Day 205 -               closed: current guests:     4/    0, occupancy: 0.000000, newly infected:    2394, currently infected:   23281, total fully vaccined:       0, recovered:   29877, ballance:   504650
+Day 206 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2306, currently infected:   24428, total fully vaccined:       0, recovered:   31036, ballance:   501775
+Day 207 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2910, currently infected:   25961, total fully vaccined:       0, recovered:   32413, ballance:   498900
+Day 208 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2944, currently infected:   27458, total fully vaccined:       0, recovered:   33860, ballance:   496025
+Day 209 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1976, currently infected:   27893, total fully vaccined:       0, recovered:   35401, ballance:   493150
+Day 210 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1303, currently infected:   28409, total fully vaccined:       0, recovered:   36188, ballance:   490275
+Day 211 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1286, currently infected:   28661, total fully vaccined:       0, recovered:   37222, ballance:   487400
+Day 212 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1960, currently infected:   28947, total fully vaccined:       0, recovered:   38896, ballance:   484525
+Day 213 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2920, currently infected:   29731, total fully vaccined:       0, recovered:   41032, ballance:   481650
+Day 214 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3492, currently infected:   30100, total fully vaccined:       0, recovered:   44155, ballance:   478775
+Day 215 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3796, currently infected:   31789, total fully vaccined:       0, recovered:   46262, ballance:   475900
+Day 216 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2554, currently infected:   32299, total fully vaccined:       0, recovered:   48306, ballance:   473025
+Day 217 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1841, currently infected:   33156, total fully vaccined:       0, recovered:   49290, ballance:   470150
+Day 218 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3120, currently infected:   34802, total fully vaccined:       0, recovered:   50764, ballance:   467275
+Day 219 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4456, currently infected:   36864, total fully vaccined:       0, recovered:   53158, ballance:   464400
+Day 220 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5338, currently infected:   39896, total fully vaccined:       0, recovered:   55464, ballance:   461525
+Day 221 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5397, currently infected:   42383, total fully vaccined:       0, recovered:   58374, ballance:   458650
+Day 222 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8617, currently infected:   48056, total fully vaccined:       0, recovered:   61318, ballance:   455775
+Day 223 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4631, currently infected:   50711, total fully vaccined:       0, recovered:   63294, ballance:   452900
+Day 224 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3105, currently infected:   52513, total fully vaccined:       0, recovered:   64597, ballance:   450025
+Day 225 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4311, currently infected:   55538, total fully vaccined:       0, recovered:   65883, ballance:   447150
+Day 226 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8326, currently infected:   61904, total fully vaccined:       0, recovered:   67843, ballance:   444275
+Day 227 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9543, currently infected:   68527, total fully vaccined:       0, recovered:   70763, ballance:   441400
+Day 228 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9720, currently infected:   74755, total fully vaccined:       0, recovered:   74255, ballance:   438525
+Day 229 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   11102, currently infected:   82061, total fully vaccined:       0, recovered:   78051, ballance:   435650
+Day 230 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8715, currently infected:   88222, total fully vaccined:       0, recovered:   80605, ballance:   432775
+Day 231 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5058, currently infected:   91439, total fully vaccined:       0, recovered:   82446, ballance:   429900
+Day 232 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8077, currently infected:   96396, total fully vaccined:       0, recovered:   85566, ballance:   427025
+Day 233 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   11984, currently infected:  103924, total fully vaccined:       0, recovered:   90022, ballance:   424150
+Day 234 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   14969, currently infected:  113555, total fully vaccined:       0, recovered:   95360, ballance:   421275
+Day 235 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   14150, currently infected:  122308, total fully vaccined:       0, recovered:  100757, ballance:   418400
+Day 236 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   15258, currently infected:  128949, total fully vaccined:       0, recovered:  109374, ballance:   415525
+Day 237 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   12474, currently infected:  136792, total fully vaccined:       0, recovered:  114005, ballance:   412650
+Day 238 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7300, currently infected:  140987, total fully vaccined:       0, recovered:  117110, ballance:   409775
+Day 239 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10273, currently infected:  146949, total fully vaccined:       0, recovered:  121421, ballance:   406900
+Day 240 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   15663, currently infected:  154286, total fully vaccined:       0, recovered:  129747, ballance:   404025
+Day 241 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   12980, currently infected:  157723, total fully vaccined:       0, recovered:  139290, ballance:   401150
+Day 242 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   13055, currently infected:  161058, total fully vaccined:       0, recovered:  149010, ballance:   398275
+Day 243 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   13605, currently infected:  163561, total fully vaccined:       0, recovered:  160112, ballance:   395400
+Day 244 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   11429, currently infected:  166275, total fully vaccined:       0, recovered:  168827, ballance:   392525
+Day 245 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    6542, currently infected:  167759, total fully vaccined:       0, recovered:  173885, ballance:   389650
+Day 246 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9252, currently infected:  168934, total fully vaccined:       0, recovered:  181962, ballance:   386775
+Day 247 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   12089, currently infected:  169039, total fully vaccined:       0, recovered:  193946, ballance:   383900
+Day 248 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   15731, currently infected:  169801, total fully vaccined:       0, recovered:  208915, ballance:   381025
+Day 249 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   13229, currently infected:  168880, total fully vaccined:       0, recovered:  223065, ballance:   378150
+Day 250 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   11552, currently infected:  165174, total fully vaccined:       0, recovered:  238323, ballance:   375275
+Day 251 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7723, currently infected:  160423, total fully vaccined:       0, recovered:  250797, ballance:   372400
+Day 252 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3608, currently infected:  156731, total fully vaccined:       0, recovered:  258097, ballance:   369525
+Day 253 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2353, currently infected:  148811, total fully vaccined:       0, recovered:  268370, ballance:   366650
+Day 254 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   12699, currently infected:  145847, total fully vaccined:       0, recovered:  284033, ballance:   363775
+Day 255 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8925, currently infected:  141792, total fully vaccined:       0, recovered:  297013, ballance:   360900
+Day 256 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7870, currently infected:  136607, total fully vaccined:       0, recovered:  310068, ballance:   358025
+Day 257 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7355, currently infected:  130357, total fully vaccined:       0, recovered:  323673, ballance:   355150
+Day 258 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4199, currently infected:  123127, total fully vaccined:       0, recovered:  335102, ballance:   352275
+Day 259 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1887, currently infected:  118472, total fully vaccined:       0, recovered:  341644, ballance:   349400
+Day 260 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5407, currently infected:  114627, total fully vaccined:       0, recovered:  350896, ballance:   346525
+Day 261 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4246, currently infected:  106784, total fully vaccined:       0, recovered:  362985, ballance:   343650
+Day 262 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5515, currently infected:   96568, total fully vaccined:       0, recovered:  378716, ballance:   340775
+Day 263 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    6471, currently infected:   89810, total fully vaccined:       0, recovered:  391945, ballance:   337900
+Day 264 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5808, currently infected:   84066, total fully vaccined:       0, recovered:  403497, ballance:   335025
+Day 265 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3187, currently infected:   79530, total fully vaccined:       0, recovered:  411220, ballance:   332150
+Day 266 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1513, currently infected:   77435, total fully vaccined:       0, recovered:  414828, ballance:   329275
+Day 267 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4375, currently infected:   79457, total fully vaccined:       0, recovered:  417181, ballance:   326400
+Day 268 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5896, currently infected:   72654, total fully vaccined:       0, recovered:  429880, ballance:   323525
+Day 269 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2681, currently infected:   66410, total fully vaccined:       0, recovered:  438805, ballance:   320650
+Day 270 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    6305, currently infected:   64845, total fully vaccined:       0, recovered:  446675, ballance:   317775
+Day 271 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4464, currently infected:   61954, total fully vaccined:       0, recovered:  454030, ballance:   314900
+Day 272 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2665, currently infected:   60420, total fully vaccined:       0, recovered:  458229, ballance:   312025
+Day 273 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1074, currently infected:   59607, total fully vaccined:       0, recovered:  460116, ballance:   309150
+Day 274 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3575, currently infected:   57775, total fully vaccined:       0, recovered:  465523, ballance:   306275
+Day 275 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5176, currently infected:   58705, total fully vaccined:       0, recovered:  469769, ballance:   303400
+Day 276 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4568, currently infected:   57758, total fully vaccined:       0, recovered:  475284, ballance:   300525
+Day 277 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4621, currently infected:   55908, total fully vaccined:       0, recovered:  481755, ballance:   297650
+Day 278 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4743, currently infected:   54843, total fully vaccined:       0, recovered:  487563, ballance:   294775
+Day 279 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1773, currently infected:   53429, total fully vaccined:       0, recovered:  490750, ballance:   291900
+Day 280 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2654, currently infected:   54570, total fully vaccined:       0, recovered:  492263, ballance:   289025
+Day 281 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:       0, currently infected:   50195, total fully vaccined:       0, recovered:  496638, ballance:   286150
+Day 282 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4237, currently infected:   48536, total fully vaccined:       0, recovered:  502534, ballance:   283275
+Day 283 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5857, currently infected:   51712, total fully vaccined:       0, recovered:  505215, ballance:   280400
+Day 284 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    6406, currently infected:   51813, total fully vaccined:       0, recovered:  511520, ballance:   277525
+Day 285 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5872, currently infected:   53221, total fully vaccined:       0, recovered:  515984, ballance:   274650
+Day 286 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    6217, currently infected:   56773, total fully vaccined:       0, recovered:  518649, ballance:   271775
+Day 287 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3657, currently infected:   59356, total fully vaccined:       0, recovered:  519723, ballance:   268900
+Day 288 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2000, currently infected:   57781, total fully vaccined:       0, recovered:  523298, ballance:   266025
+Day 289 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5172, currently infected:   57777, total fully vaccined:       0, recovered:  528474, ballance:   263150
+Day 290 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7897, currently infected:   61106, total fully vaccined:       0, recovered:  533042, ballance:   260275
+Day 291 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8256, currently infected:   64741, total fully vaccined:       0, recovered:  537663, ballance:   257400
+Day 292 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7602, currently infected:   67600, total fully vaccined:       0, recovered:  542406, ballance:   254525
+Day 293 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8830, currently infected:   74657, total fully vaccined:       0, recovered:  544179, ballance:   251650
+Day 294 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5304, currently infected:   77307, total fully vaccined:       0, recovered:  546833, ballance:   248775
+Day 295 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3383, currently infected:   80690, total fully vaccined:       0, recovered:  546833, ballance:   245900
+Day 296 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7891, currently infected:   84344, total fully vaccined:       0, recovered:  551070, ballance:   243025
+Day 297 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10898, currently infected:   89385, total fully vaccined:       0, recovered:  556927, ballance:   240150
+Day 298 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   14149, currently infected:   97128, total fully vaccined:       0, recovered:  563333, ballance:   237275
+Day 299 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4402, currently infected:   95658, total fully vaccined:       0, recovered:  569205, ballance:   234400
+Day 300 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2706, currently infected:   92147, total fully vaccined:       0, recovered:  575422, ballance:   231525
+Day 301 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3030, currently infected:   91520, total fully vaccined:       0, recovered:  579079, ballance:   228650
+Day 302 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3741, currently infected:   93261, total fully vaccined:       0, recovered:  581079, ballance:   225775
+Day 303 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10862, currently infected:   98951, total fully vaccined:       0, recovered:  586251, ballance:   222900
+Day 304 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   16420, currently infected:  107474, total fully vaccined:       0, recovered:  594148, ballance:   220025
+Day 305 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   17039, currently infected:  116257, total fully vaccined:       0, recovered:  602404, ballance:   217150
+Day 306 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   13361, currently infected:  122016, total fully vaccined:       0, recovered:  610006, ballance:   214275
+Day 307 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3447, currently infected:  116633, total fully vaccined:       0, recovered:  618836, ballance:   211400
+Day 308 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5012, currently infected:  116341, total fully vaccined:       0, recovered:  624140, ballance:   208525
+Day 309 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    6233, currently infected:  119191, total fully vaccined:       0, recovered:  627523, ballance:   205650
+Day 310 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   12921, currently infected:  124221, total fully vaccined:       0, recovered:  635414, ballance:   202775
+Day 311 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   17332, currently infected:  130655, total fully vaccined:       0, recovered:  646312, ballance:   199900
+Day 312 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   17773, currently infected:  134279, total fully vaccined:       0, recovered:  660461, ballance:   197025
+Day 313 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   14861, currently infected:  144738, total fully vaccined:       1, recovered:  664863, ballance:   194150
+Day 314 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   13115, currently infected:  155147, total fully vaccined:       1, recovered:  667569, ballance:   191275
+Day 315 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8449, currently infected:  160566, total fully vaccined:       2, recovered:  670599, ballance:   188400
+Day 316 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4289, currently infected:  161114, total fully vaccined:       3, recovered:  674340, ballance:   185525
+Day 317 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9345, currently infected:  159597, total fully vaccined:       4, recovered:  685202, ballance:   182650
+Day 318 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10801, currently infected:  153978, total fully vaccined:       6, recovered:  701622, ballance:   179775
+Day 319 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10922, currently infected:  147861, total fully vaccined:       8, recovered:  718661, ballance:   176900
+Day 320 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8083, currently infected:  142583, total fully vaccined:       8, recovered:  732022, ballance:   174025
+Day 321 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9301, currently infected:  148437, total fully vaccined:      12, recovered:  735469, ballance:   171150
+Day 322 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5253, currently infected:  148678, total fully vaccined:      13, recovered:  740481, ballance:   168275
+Day 323 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2693, currently infected:  145138, total fully vaccined:      16, recovered:  746714, ballance:   165400
+Day 324 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7651, currently infected:  139868, total fully vaccined:     652, recovered:  759635, ballance:   162525
+Day 325 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9628, currently infected:  132164, total fully vaccined:    2478, recovered:  776967, ballance:   159650
+Day 326 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8228, currently infected:  122619, total fully vaccined:    5203, recovered:  794740, ballance:   156775
+Day 327 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7488, currently infected:  115246, total fully vaccined:    7864, recovered:  809601, ballance:   153900
+Day 328 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8514, currently infected:  110645, total fully vaccined:    9607, recovered:  822716, ballance:   151025
+Day 329 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4256, currently infected:  106452, total fully vaccined:   10652, recovered:  831165, ballance:   148150
+Day 330 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2387, currently infected:  104550, total fully vaccined:   11531, recovered:  835454, ballance:   145275
+Day 331 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    6942, currently infected:  102147, total fully vaccined:   12400, recovered:  844799, ballance:   142400
+Day 332 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9209, currently infected:  100555, total fully vaccined:   15372, recovered:  855600, ballance:   139525
+Day 333 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8505, currently infected:   98138, total fully vaccined:   19363, recovered:  866522, ballance:   136650
+Day 334 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7982, currently infected:   98037, total fully vaccined:   23900, recovered:  874605, ballance:   133775
+Day 335 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8072, currently infected:   96808, total fully vaccined:   30030, recovered:  883906, ballance:   130900
+Day 336 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4060, currently infected:   95615, total fully vaccined:   37940, recovered:  889159, ballance:   128025
+Day 337 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2555, currently infected:   95477, total fully vaccined:   39028, recovered:  891852, ballance:   125150
+Day 338 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7185, currently infected:   95011, total fully vaccined:   40209, recovered:  899503, ballance:   122275
+Day 339 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9143, currently infected:   94526, total fully vaccined:   48170, recovered:  909131, ballance:   119400
+Day 340 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9695, currently infected:   95993, total fully vaccined:   58400, recovered:  917359, ballance:   116525
+Day 341 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8125, currently infected:   96630, total fully vaccined:   69412, recovered:  924847, ballance:   113650
+Day 342 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8635, currently infected:   96751, total fully vaccined:   82398, recovered:  933361, ballance:   110775
+Day 343 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4863, currently infected:   97358, total fully vaccined:   93069, recovered:  937617, ballance:   107900
+Day 344 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2430, currently infected:   97401, total fully vaccined:   95434, recovered:  940004, ballance:   105025
+Day 345 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7727, currently infected:   98186, total fully vaccined:   97935, recovered:  946946, ballance:   102150
+Day 346 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10283, currently infected:   99260, total fully vaccined:  109367, recovered:  956155, ballance:    99275
+Day 347 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9537, currently infected:  100292, total fully vaccined:  121277, recovered:  964660, ballance:    96400
+Day 348 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9014, currently infected:  101324, total fully vaccined:  134529, recovered:  972642, ballance:    93525
+Day 349 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8883, currently infected:  102135, total fully vaccined:  150743, recovered:  980714, ballance:    90650
+Day 350 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5160, currently infected:  103235, total fully vaccined:  165473, recovered:  984774, ballance:    87775
+Day 351 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2851, currently infected:  103531, total fully vaccined:  168461, recovered:  987329, ballance:    84900
+Day 352 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8794, currently infected:  105140, total fully vaccined:  169845, recovered:  994514, ballance:    82025
+Day 353 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   12668, currently infected:  108665, total fully vaccined:  179202, recovered: 1003657, ballance:    79150
+Day 354 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10930, currently infected:  109900, total fully vaccined:  188280, recovered: 1013352, ballance:    76275
+Day 355 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   11705, currently infected:  113480, total fully vaccined:  196585, recovered: 1021477, ballance:    73400
+Day 356 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   11364, currently infected:  116209, total fully vaccined:  204665, recovered: 1030112, ballance:    70525
+Day 357 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    6838, currently infected:  118184, total fully vaccined:  212025, recovered: 1034975, ballance:    67650
+Day 358 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4021, currently infected:  119775, total fully vaccined:  213208, recovered: 1037405, ballance:    64775
+Day 359 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   11311, currently infected:  123359, total fully vaccined:  214231, recovered: 1045132, ballance:    61900
+Day 360 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   15861, currently infected:  128937, total fully vaccined:  220259, recovered: 1055415, ballance:    59025
+Day 361 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   13816, currently infected:  133216, total fully vaccined:  227236, recovered: 1064952, ballance:    56150
+Day 362 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   14612, currently infected:  138814, total fully vaccined:  233270, recovered: 1073966, ballance:    53275
+Day 363 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   14815, currently infected:  144746, total fully vaccined:  238819, recovered: 1082849, ballance:    50400
+Day 364 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7885, currently infected:  147471, total fully vaccined:  244168, recovered: 1088009, ballance:    47525
+Day 365 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4571, currently infected:  149191, total fully vaccined:  244725, recovered: 1090860, ballance:    44650
+Day 366 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   12191, currently infected:  152588, total fully vaccined:  245275, recovered: 1099654, ballance:    41775
+Day 367 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   16816, currently infected:  156736, total fully vaccined:  248721, recovered: 1112322, ballance:    38900
+Day 368 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   15230, currently infected:  161036, total fully vaccined:  252263, recovered: 1123252, ballance:    36025
+Day 369 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   14714, currently infected:  164045, total fully vaccined:  256767, recovered: 1134957, ballance:    33150
+Day 370 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   13162, currently infected:  165843, total fully vaccined:  261450, recovered: 1146321, ballance:    30275
+Day 371 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9167, currently infected:  168172, total fully vaccined:  266869, recovered: 1153159, ballance:    27400
+Day 372 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3960, currently infected:  168111, total fully vaccined:  267729, recovered: 1157180, ballance:    24525
+Day 373 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10524, currently infected:  167324, total fully vaccined:  268569, recovered: 1168491, ballance:    21650
+Day 374 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   15380, currently infected:  166843, total fully vaccined:  273422, recovered: 1184352, ballance:    18775
+Day 375 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   14529, currently infected:  167556, total fully vaccined:  279801, recovered: 1198168, ballance:    15900
+Day 376 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   11274, currently infected:  164218, total fully vaccined:  286753, recovered: 1212780, ballance:    13025
+Day 377 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   15110, currently infected:  164513, total fully vaccined:  295122, recovered: 1227595, ballance:    10150
+Day 378 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    6970, currently infected:  163598, total fully vaccined:  303613, recovered: 1235480, ballance:     7275
+Day 379 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3342, currently infected:  162369, total fully vaccined:  304919, recovered: 1240051, ballance:     4400
+Day 380 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10542, currently infected:  160720, total fully vaccined:  306071, recovered: 1252242, ballance:     1525
+Day 381 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   14029, currently infected:  157933, total fully vaccined:  314844, recovered: 1269058, ballance:    -1350
+Day 382 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   12028, currently infected:  154731, total fully vaccined:  325377, recovered: 1284288, ballance:    -4225
+Day 383 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10677, currently infected:  150694, total fully vaccined:  335881, recovered: 1299002, ballance:    -7100
+Day 384 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    9710, currently infected:  147242, total fully vaccined:  348292, recovered: 1312164, ballance:    -9975
+Day 385 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10141, currently infected:  148216, total fully vaccined:  361897, recovered: 1321331, ballance:   -12850
+Day 386 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2214, currently infected:  146470, total fully vaccined:  363922, recovered: 1325291, ballance:   -15725
+Day 387 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8205, currently infected:  144151, total fully vaccined:  365479, recovered: 1335815, ballance:   -18600
+Day 388 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:   10972, currently infected:  139743, total fully vaccined:  377979, recovered: 1351195, ballance:   -21475
+Day 389 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8851, currently infected:  134065, total fully vaccined:  391327, recovered: 1365724, ballance:   -24350
+Day 390 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7946, currently infected:  130737, total fully vaccined:  407060, recovered: 1376998, ballance:   -27225
+Day 391 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7714, currently infected:  123341, total fully vaccined:  424908, recovered: 1392108, ballance:   -30100
+Day 392 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4008, currently infected:  120379, total fully vaccined:  442408, recovered: 1399078, ballance:   -32975
+Day 393 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1743, currently infected:  118780, total fully vaccined:  447254, recovered: 1402420, ballance:   -35850
+Day 394 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    6896, currently infected:  115134, total fully vaccined:  451393, recovered: 1412962, ballance:   -38725
+Day 395 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    8664, currently infected:  109769, total fully vaccined:  472128, recovered: 1426991, ballance:   -41600
+Day 396 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7285, currently infected:  105026, total fully vaccined:  494302, recovered: 1439019, ballance:   -44475
+Day 397 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    6248, currently infected:  100597, total fully vaccined:  521357, recovered: 1449696, ballance:   -47350
+Day 398 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3869, currently infected:   94756, total fully vaccined:  553397, recovered: 1459406, ballance:   -50225
+Day 399 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2162, currently infected:   86777, total fully vaccined:  566183, recovered: 1469547, ballance:   -53100
+Day 400 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1924, currently infected:   86487, total fully vaccined:  577102, recovered: 1471761, ballance:   -55975
+Day 401 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1425, currently infected:   79707, total fully vaccined:  586020, recovered: 1479966, ballance:   -58850
+Day 402 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5532, currently infected:   74267, total fully vaccined:  593202, recovered: 1490938, ballance:   -61725
+Day 403 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    7071, currently infected:   72487, total fully vaccined:  622453, recovered: 1499789, ballance:   -64600
+Day 404 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5305, currently infected:   69846, total fully vaccined:  644679, recovered: 1507735, ballance:   -67475
+Day 405 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    4819, currently infected:   66951, total fully vaccined:  675699, recovered: 1515449, ballance:   -70350
+Day 406 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2217, currently infected:   65160, total fully vaccined:  705874, recovered: 1519457, ballance:   -73225
+Day 407 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:     995, currently infected:   64412, total fully vaccined:  721162, recovered: 1521200, ballance:   -76100
+Day 408 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3853, currently infected:   61369, total fully vaccined:  731202, recovered: 1528096, ballance:   -78975
+Day 409 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    5087, currently infected:   57792, total fully vaccined:  756335, recovered: 1536760, ballance:   -81850
+Day 410 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3723, currently infected:   54230, total fully vaccined:  782364, recovered: 1544045, ballance:   -84725
+Day 411 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3256, currently infected:   51238, total fully vaccined:  809720, recovered: 1550293, ballance:   -87600
+Day 412 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3238, currently infected:   50607, total fully vaccined:  835465, recovered: 1554162, ballance:   -90475
+Day 413 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1540, currently infected:   49985, total fully vaccined:  861105, recovered: 1556324, ballance:   -93350
+Day 414 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:     830, currently infected:   48891, total fully vaccined:  870129, recovered: 1558248, ballance:   -96225
+Day 415 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3319, currently infected:   50785, total fully vaccined:  875110, recovered: 1559673, ballance:   -99100
+Day 416 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3831, currently infected:   49084, total fully vaccined:  890532, recovered: 1565205, ballance:  -101975
+Day 417 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2971, currently infected:   44984, total fully vaccined:  906387, recovered: 1572276, ballance:  -104850
+Day 418 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2629, currently infected:   42308, total fully vaccined:  920734, recovered: 1577581, ballance:  -107725
+Day 419 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2607, currently infected:   40096, total fully vaccined:  938107, recovered: 1582400, ballance:  -110600
+Day 420 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1315, currently infected:   39194, total fully vaccined:  950157, recovered: 1584617, ballance:  -113475
+Day 421 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:     823, currently infected:   39022, total fully vaccined:  955399, recovered: 1585612, ballance:  -116350
+Day 422 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2571, currently infected:   37740, total fully vaccined:  959396, recovered: 1589465, ballance:  -119225
+Day 423 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    3256, currently infected:   35909, total fully vaccined:  966946, recovered: 1594552, ballance:  -122100
+Day 424 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2503, currently infected:   34689, total fully vaccined:  979165, recovered: 1598275, ballance:  -124975
+Day 425 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2222, currently infected:   33655, total fully vaccined:  993157, recovered: 1601531, ballance:  -127850
+Day 426 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2174, currently infected:   32591, total fully vaccined: 1009048, recovered: 1604769, ballance:  -130725
+Day 427 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1182, currently infected:   32233, total fully vaccined: 1019012, recovered: 1606309, ballance:  -133600
+Day 428 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:     505, currently infected:   31908, total fully vaccined: 1022457, recovered: 1607139, ballance:  -136475
+Day 429 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2217, currently infected:   30806, total fully vaccined: 1024723, recovered: 1610458, ballance:  -139350
+Day 430 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    2412, currently infected:   29387, total fully vaccined: 1029776, recovered: 1614289, ballance:  -142225
+Day 431 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1872, currently infected:   28288, total fully vaccined: 1038107, recovered: 1617260, ballance:  -145100
+Day 432 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1576, currently infected:   27235, total fully vaccined: 1047503, recovered: 1619889, ballance:  -147975
+Day 433 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:    1639, currently infected:   26267, total fully vaccined: 1058219, recovered: 1622496, ballance:  -150850
+Day 434 -               closed: current guests:     0/    0, occupancy: 0.000000, newly infected:     726, currently infected:   25678, total fully vaccined: 1068278, recovered: 1623811, ballance:  -153725
+Day 435 - vaccination required: current guests:    16/   26, occupancy: 0.615385, newly infected:     387, currently infected:   25242, total fully vaccined: 1070039, recovered: 1624634, ballance:  -152400
+Day 436 - vaccination required: current guests:    17/   26, occupancy: 0.653846, newly infected:    1533, currently infected:   24204, total fully vaccined: 1071240, recovered: 1627205, ballance:  -155275
+Day 437 - vaccination required: current guests:    14/   26, occupancy: 0.538462, newly infected:    1686, currently infected:   22634, total fully vaccined: 1078450, recovered: 1630461, ballance:  -158150
+Day 438 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:    1280, currently infected:   21411, total fully vaccined: 1087242, recovered: 1632964, ballance:  -161025
+Day 439 - vaccination required: current guests:    18/   26, occupancy: 0.692308, newly infected:    1231, currently infected:   20420, total fully vaccined: 1096338, recovered: 1635186, ballance:  -151300
+Day 440 - vaccination required: current guests:    20/   26, occupancy: 0.769231, newly infected:    1060, currently infected:   19306, total fully vaccined: 1105493, recovered: 1637360, ballance:  -154175
+Day 441 - vaccination required: current guests:    20/   26, occupancy: 0.769231, newly infected:     602, currently infected:   18726, total fully vaccined: 1113274, recovered: 1638542, ballance:  -157050
+Day 442 - vaccination required: current guests:    16/   26, occupancy: 0.615385, newly infected:     259, currently infected:   18480, total fully vaccined: 1115517, recovered: 1639047, ballance:  -159925
+Day 443 - vaccination required: current guests:    13/   26, occupancy: 0.500000, newly infected:    1120, currently infected:   17383, total fully vaccined: 1116777, recovered: 1641264, ballance:  -162800
+Day 444 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:    1195, currently infected:   16166, total fully vaccined: 1123498, recovered: 1643676, ballance:  -140475
+Day 445 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:     788, currently infected:   15082, total fully vaccined: 1136555, recovered: 1645548, ballance:  -143350
+Day 446 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     672, currently infected:   14178, total fully vaccined: 1151682, recovered: 1647124, ballance:  -146225
+Day 447 - vaccination required: current guests:    11/   26, occupancy: 0.423077, newly infected:     684, currently infected:   13223, total fully vaccined: 1178700, recovered: 1648763, ballance:  -149100
+Day 448 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:     335, currently infected:   12832, total fully vaccined: 1206449, recovered: 1649489, ballance:  -147775
+Day 449 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:     199, currently infected:   12644, total fully vaccined: 1217620, recovered: 1649876, ballance:  -150650
+Day 450 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     686, currently infected:   11797, total fully vaccined: 1226650, recovered: 1651409, ballance:  -147225
+Day 451 - vaccination required: current guests:    17/   26, occupancy: 0.653846, newly infected:     655, currently infected:   10766, total fully vaccined: 1260295, recovered: 1653095, ballance:  -145900
+Day 452 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:     547, currently infected:   10033, total fully vaccined: 1296065, recovered: 1654375, ballance:  -120775
+Day 453 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     501, currently infected:    9303, total fully vaccined: 1333558, recovered: 1655606, ballance:  -119450
+Day 454 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     454, currently infected:    8697, total fully vaccined: 1380863, recovered: 1656666, ballance:  -118125
+Day 455 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     224, currently infected:    8319, total fully vaccined: 1427412, recovered: 1657268, ballance:  -121000
+Day 456 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     113, currently infected:    8173, total fully vaccined: 1444506, recovered: 1657527, ballance:  -118275
+Day 457 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     508, currently infected:    7561, total fully vaccined: 1458933, recovered: 1658647, ballance:  -121150
+Day 458 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     476, currently infected:    6842, total fully vaccined: 1506459, recovered: 1659842, ballance:  -118425
+Day 459 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     352, currently infected:    6406, total fully vaccined: 1555279, recovered: 1660630, ballance:  -120600
+Day 460 - vaccination required: current guests:    13/   26, occupancy: 0.500000, newly infected:     432, currently infected:    6166, total fully vaccined: 1609236, recovered: 1661302, ballance:  -122075
+Day 461 - vaccination required: current guests:    13/   26, occupancy: 0.500000, newly infected:     323, currently infected:    5805, total fully vaccined: 1669414, recovered: 1661986, ballance:  -105350
+Day 462 - vaccination required: current guests:    10/   26, occupancy: 0.384615, newly infected:     154, currently infected:    5624, total fully vaccined: 1726794, recovered: 1662321, ballance:  -108225
+Day 463 - vaccination required: current guests:    14/   26, occupancy: 0.538462, newly infected:      90, currently infected:    5515, total fully vaccined: 1745613, recovered: 1662520, ballance:  -111100
+Day 464 - vaccination required: current guests:    18/   26, occupancy: 0.692308, newly infected:     391, currently infected:    5220, total fully vaccined: 1760736, recovered: 1663206, ballance:  -113975
+Day 465 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     384, currently infected:    4949, total fully vaccined: 1816337, recovered: 1663861, ballance:  -116850
+Day 466 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     267, currently infected:    4669, total fully vaccined: 1871293, recovered: 1664408, ballance:  -117625
+Day 467 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:     190, currently infected:    4358, total fully vaccined: 1935795, recovered: 1664909, ballance:  -100900
+Day 468 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     183, currently infected:    4087, total fully vaccined: 2006944, recovered: 1665363, ballance:   -82775
+Day 469 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:      75, currently infected:    3938, total fully vaccined: 2076659, recovered: 1665587, ballance:   -68850
+Day 470 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:      41, currently infected:    3866, total fully vaccined: 2097424, recovered: 1665700, ballance:   -71725
+Day 471 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     189, currently infected:    3547, total fully vaccined: 2115801, recovered: 1666208, ballance:   -64100
+Day 472 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     199, currently infected:    3270, total fully vaccined: 2190137, recovered: 1666684, ballance:   -66975
+Day 473 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     134, currently infected:    3052, total fully vaccined: 2262436, recovered: 1667036, ballance:   -69850
+Day 474 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     158, currently infected:    2778, total fully vaccined: 2340613, recovered: 1667468, ballance:   -67125
+Day 475 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     143, currently infected:    2598, total fully vaccined: 2423630, recovered: 1667791, ballance:   -65800
+Day 476 - vaccination required: current guests:    16/   26, occupancy: 0.615385, newly infected:      64, currently infected:    2508, total fully vaccined: 2504081, recovered: 1667945, ballance:   -68675
+Day 477 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:      57, currently infected:    2475, total fully vaccined: 2533321, recovered: 1668035, ballance:   -71550
+Day 478 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     110, currently infected:    2194, total fully vaccined: 2557115, recovered: 1668426, ballance:   -10725
+Day 479 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     133, currently infected:    1943, total fully vaccined: 2635628, recovered: 1668810, ballance:   -13600
+Day 480 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     196, currently infected:    1872, total fully vaccined: 2717826, recovered: 1669077, ballance:   -15075
+Day 481 - vaccination required: current guests:    20/   26, occupancy: 0.769231, newly infected:     165, currently infected:    1847, total fully vaccined: 2802979, recovered: 1669267, ballance:   -15850
+Day 482 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     135, currently infected:    1799, total fully vaccined: 2892926, recovered: 1669450, ballance:   -15925
+Day 483 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:      69, currently infected:    1793, total fully vaccined: 2978992, recovered: 1669525, ballance:   -13900
+Day 484 - vaccination required: current guests:    15/   26, occupancy: 0.576923, newly infected:      57, currently infected:    1809, total fully vaccined: 3013761, recovered: 1669566, ballance:   -16775
+Day 485 - vaccination required: current guests:    18/   26, occupancy: 0.692308, newly infected:     168, currently infected:    1788, total fully vaccined: 3040373, recovered: 1669755, ballance:      -50
+Day 486 - vaccination required: current guests:    18/   26, occupancy: 0.692308, newly infected:     172, currently infected:    1761, total fully vaccined: 3125493, recovered: 1669954, ballance:     -125
+Day 487 - vaccination required: current guests:    20/   26, occupancy: 0.769231, newly infected:     148, currently infected:    1775, total fully vaccined: 3211897, recovered: 1670088, ballance:    -3000
+Day 488 - vaccination required: current guests:    19/   26, occupancy: 0.730769, newly infected:     173, currently infected:    1790, total fully vaccined: 3302803, recovered: 1670246, ballance:    -3075
+Day 489 - vaccination required: current guests:    20/   26, occupancy: 0.769231, newly infected:     188, currently infected:    1835, total fully vaccined: 3392795, recovered: 1670389, ballance:    -5950
+Day 490 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     139, currently infected:    1910, total fully vaccined: 3478583, recovered: 1670453, ballance:    -8825
+Day 491 - vaccination required: current guests:    20/   26, occupancy: 0.769231, newly infected:     105, currently infected:    1958, total fully vaccined: 3510058, recovered: 1670510, ballance:    -9600
+Day 492 - vaccination required: current guests:    19/   26, occupancy: 0.730769, newly infected:     130, currently infected:    1978, total fully vaccined: 3531830, recovered: 1670620, ballance:    -8975
+Day 493 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     107, currently infected:    1952, total fully vaccined: 3557175, recovered: 1670753, ballance:    66550
+Day 494 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:     342, currently infected:    2098, total fully vaccined: 3584788, recovered: 1670949, ballance:    63675
+Day 495 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     272, currently infected:    2205, total fully vaccined: 3663708, recovered: 1671114, ballance:    63600
+Day 496 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     291, currently infected:    2361, total fully vaccined: 3733970, recovered: 1671249, ballance:    64225
+Day 497 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     169, currently infected:    2461, total fully vaccined: 3803178, recovered: 1671318, ballance:    66950
+Day 498 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     145, currently infected:    2549, total fully vaccined: 3831764, recovered: 1671375, ballance:    64775
+Day 499 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     249, currently infected:    2630, total fully vaccined: 3854620, recovered: 1671543, ballance:    96900
+Day 500 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     328, currently infected:    2786, total fully vaccined: 3923650, recovered: 1671715, ballance:    94025
+Day 501 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     275, currently infected:    2913, total fully vaccined: 3993455, recovered: 1671863, ballance:    96750
+Day 502 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     235, currently infected:    2975, total fully vaccined: 4065362, recovered: 1672036, ballance:    95275
+Day 503 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:     240, currently infected:    3027, total fully vaccined: 4131299, recovered: 1672224, ballance:    92400
+Day 504 - vaccination required: current guests:    18/   26, occupancy: 0.692308, newly infected:     204, currently infected:    3092, total fully vaccined: 4203942, recovered: 1672363, ballance:    89525
+Day 505 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     118, currently infected:    3105, total fully vaccined: 4235336, recovered: 1672468, ballance:    86650
+Day 506 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     227, currently infected:    3202, total fully vaccined: 4261303, recovered: 1672598, ballance:    94275
+Day 507 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     313, currently infected:    3408, total fully vaccined: 4328269, recovered: 1672705, ballance:    92800
+Day 508 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     248, currently infected:    3314, total fully vaccined: 4395244, recovered: 1673047, ballance:    89925
+Day 509 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     207, currently infected:    3249, total fully vaccined: 4458640, recovered: 1673319, ballance:    88450
+Day 510 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     200, currently infected:    3158, total fully vaccined: 4517194, recovered: 1673610, ballance:    89775
+Day 511 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:      69, currently infected:    3058, total fully vaccined: 4571870, recovered: 1673779, ballance:    96700
+Day 512 - vaccination required: current guests:    15/   26, occupancy: 0.576923, newly infected:     138, currently infected:    3051, total fully vaccined: 4599491, recovered: 1673924, ballance:    93825
+Day 513 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:     217, currently infected:    3019, total fully vaccined: 4621587, recovered: 1674173, ballance:    90950
+Day 514 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:     253, currently infected:    2944, total fully vaccined: 4670199, recovered: 1674501, ballance:    88075
+Day 515 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     202, currently infected:    2871, total fully vaccined: 4716758, recovered: 1674776, ballance:   176200
+Day 516 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     210, currently infected:    2846, total fully vaccined: 4762669, recovered: 1675011, ballance:   173325
+Day 517 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     147, currently infected:    2753, total fully vaccined: 4804545, recovered: 1675251, ballance:   170450
+Day 518 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     118, currently infected:    2667, total fully vaccined: 4847027, recovered: 1675455, ballance:   168975
+Day 519 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:      75, currently infected:    2624, total fully vaccined: 4866525, recovered: 1675573, ballance:   166100
+Day 520 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:     157, currently infected:    2554, total fully vaccined: 4882672, recovered: 1675800, ballance:   163225
+Day 521 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     257, currently infected:    2498, total fully vaccined: 4920168, recovered: 1676113, ballance:   170150
+Day 522 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     227, currently infected:    2477, total fully vaccined: 4958212, recovered: 1676361, ballance:   177075
+Day 523 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     167, currently infected:    2437, total fully vaccined: 4994893, recovered: 1676568, ballance:   174200
+Day 524 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     149, currently infected:    2386, total fully vaccined: 5035308, recovered: 1676768, ballance:   172025
+Day 525 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     180, currently infected:    2497, total fully vaccined: 5078530, recovered: 1676837, ballance:   169150
+Day 526 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:     104, currently infected:    2463, total fully vaccined: 5096668, recovered: 1676975, ballance:   166275
+Day 527 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:     169, currently infected:    2415, total fully vaccined: 5112397, recovered: 1677192, ballance:   173200
+Day 528 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     271, currently infected:    2433, total fully vaccined: 5157398, recovered: 1677445, ballance:   171725
+Day 529 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     225, currently infected:    2456, total fully vaccined: 5196915, recovered: 1677647, ballance:   170950
+Day 530 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     193, currently infected:    2439, total fully vaccined: 5239998, recovered: 1677857, ballance:   191175
+Day 531 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     212, currently infected:    2504, total fully vaccined: 5277073, recovered: 1678004, ballance:   188300
+Day 532 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     142, currently infected:    2528, total fully vaccined: 5317361, recovered: 1678122, ballance:   187525
+Day 533 - vaccination required: current guests:     8/   26, occupancy: 0.307692, newly infected:      75, currently infected:    2528, total fully vaccined: 5328038, recovered: 1678197, ballance:   188150
+Day 534 - vaccination required: current guests:    13/   26, occupancy: 0.500000, newly infected:     221, currently infected:    2592, total fully vaccined: 5338392, recovered: 1678354, ballance:   187375
+Day 535 - vaccination required: current guests:    15/   26, occupancy: 0.576923, newly infected:     299, currently infected:    2634, total fully vaccined: 5372423, recovered: 1678611, ballance:   184500
+Day 536 - vaccination required: current guests:    14/   26, occupancy: 0.538462, newly infected:     212, currently infected:    2619, total fully vaccined: 5399484, recovered: 1678838, ballance:   181625
+Day 537 - vaccination required: current guests:    17/   26, occupancy: 0.653846, newly infected:     175, currently infected:    2627, total fully vaccined: 5438320, recovered: 1679005, ballance:   178750
+Day 538 - vaccination required: current guests:    19/   26, occupancy: 0.730769, newly infected:     174, currently infected:    2652, total fully vaccined: 5476637, recovered: 1679154, ballance:   179375
+Day 539 - vaccination required: current guests:    20/   26, occupancy: 0.769231, newly infected:     134, currently infected:    2606, total fully vaccined: 5516793, recovered: 1679334, ballance:   176500
+Day 540 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     107, currently infected:    2609, total fully vaccined: 5529528, recovered: 1679438, ballance:   173625
+Day 541 - vaccination required: current guests:    18/   26, occupancy: 0.692308, newly infected:     210, currently infected:    2650, total fully vaccined: 5541480, recovered: 1679607, ballance:   174950
+Day 542 - vaccination required: current guests:    18/   26, occupancy: 0.692308, newly infected:     254, currently infected:    2633, total fully vaccined: 5580714, recovered: 1679878, ballance:   172075
+Day 543 - vaccination required: current guests:    14/   26, occupancy: 0.538462, newly infected:     248, currently infected:    2656, total fully vaccined: 5613935, recovered: 1680103, ballance:   188800
+Day 544 - vaccination required: current guests:    14/   26, occupancy: 0.538462, newly infected:     213, currently infected:    2676, total fully vaccined: 5642274, recovered: 1680296, ballance:   185925
+Day 545 - vaccination required: current guests:    13/   26, occupancy: 0.500000, newly infected:     187, currently infected:    2651, total fully vaccined: 5668377, recovered: 1680508, ballance:   183050
+Day 546 - vaccination required: current guests:    10/   26, occupancy: 0.384615, newly infected:     131, currently infected:    2640, total fully vaccined: 5694296, recovered: 1680650, ballance:   182975
+Day 547 - vaccination required: current guests:    19/   26, occupancy: 0.730769, newly infected:      82, currently infected:    2647, total fully vaccined: 5701323, recovered: 1680725, ballance:   183600
+Day 548 - vaccination required: current guests:    20/   26, occupancy: 0.769231, newly infected:     245, currently infected:    2671, total fully vaccined: 5707934, recovered: 1680946, ballance:   185625
+Day 549 - vaccination required: current guests:    15/   26, occupancy: 0.576923, newly infected:     287, currently infected:    2659, total fully vaccined: 5729780, recovered: 1681245, ballance:   191150
+Day 550 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     262, currently infected:    2709, total fully vaccined: 5747837, recovered: 1681457, ballance:   193875
+Day 551 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     308, currently infected:    2842, total fully vaccined: 5761808, recovered: 1681632, ballance:   191000
+Day 552 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     308, currently infected:    2976, total fully vaccined: 5776172, recovered: 1681806, ballance:   190225
+Day 553 - vaccination required: current guests:    15/   26, occupancy: 0.576923, newly infected:     205, currently infected:    3047, total fully vaccined: 5791855, recovered: 1681940, ballance:   190150
+Day 554 - vaccination required: current guests:    10/   26, occupancy: 0.384615, newly infected:     138, currently infected:    3078, total fully vaccined: 5795402, recovered: 1682047, ballance:   192875
+Day 555 - vaccination required: current guests:    13/   26, occupancy: 0.500000, newly infected:     394, currently infected:    3262, total fully vaccined: 5798241, recovered: 1682257, ballance:   190000
+Day 556 - vaccination required: current guests:    18/   26, occupancy: 0.692308, newly infected:     590, currently infected:    3598, total fully vaccined: 5810750, recovered: 1682511, ballance:   218625
+Day 557 - vaccination required: current guests:    17/   26, occupancy: 0.653846, newly infected:     373, currently infected:    3723, total fully vaccined: 5821835, recovered: 1682759, ballance:   217150
+Day 558 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     421, currently infected:    3931, total fully vaccined: 5831663, recovered: 1682972, ballance:   217075
+Day 559 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     451, currently infected:    4195, total fully vaccined: 5841711, recovered: 1683159, ballance:   216300
+Day 560 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:     253, currently infected:    4317, total fully vaccined: 5853874, recovered: 1683290, ballance:   213425
+Day 561 - vaccination required: current guests:    20/   26, occupancy: 0.769231, newly infected:     136, currently infected:    4371, total fully vaccined: 5856345, recovered: 1683372, ballance:   210550
+Day 562 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     487, currently infected:    4613, total fully vaccined: 5857967, recovered: 1683617, ballance:   213275
+Day 563 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     555, currently infected:    4881, total fully vaccined: 5868251, recovered: 1683904, ballance:   220900
+Day 564 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     524, currently infected:    5143, total fully vaccined: 5877249, recovered: 1684166, ballance:   219425
+Day 565 - vaccination required: current guests:    17/   26, occupancy: 0.653846, newly infected:     554, currently infected:    5389, total fully vaccined: 5885758, recovered: 1684474, ballance:   219350
+Day 566 - vaccination required: current guests:    19/   26, occupancy: 0.730769, newly infected:     443, currently infected:    5524, total fully vaccined: 5894016, recovered: 1684782, ballance:   216475
+Day 567 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:     304, currently infected:    5623, total fully vaccined: 5904223, recovered: 1684987, ballance:   228300
+Day 568 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     182, currently infected:    5667, total fully vaccined: 5906572, recovered: 1685125, ballance:   271625
+Day 569 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:     487, currently infected:    5760, total fully vaccined: 5908135, recovered: 1685519, ballance:   268750
+Day 570 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     597, currently infected:    5767, total fully vaccined: 5916319, recovered: 1686109, ballance:   267975
+Day 571 - vaccination required: current guests:    19/   26, occupancy: 0.730769, newly infected:     525, currently infected:    5919, total fully vaccined: 5923842, recovered: 1686482, ballance:   267200
+Day 572 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     484, currently infected:    5982, total fully vaccined: 5929348, recovered: 1686903, ballance:   268525
+Day 573 - vaccination required: current guests:    10/   26, occupancy: 0.384615, newly infected:     496, currently infected:    6027, total fully vaccined: 5935747, recovered: 1687354, ballance:   265650
+Day 574 - vaccination required: current guests:    15/   26, occupancy: 0.576923, newly infected:     411, currently infected:    6185, total fully vaccined: 5945353, recovered: 1687607, ballance:   276775
+Day 575 - vaccination required: current guests:    19/   26, occupancy: 0.730769, newly infected:     256, currently infected:    6305, total fully vaccined: 5947339, recovered: 1687743, ballance:   280900
+Day 576 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     668, currently infected:    6486, total fully vaccined: 5948966, recovered: 1688230, ballance:   278025
+Day 577 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     470, currently infected:    6401, total fully vaccined: 5955453, recovered: 1688785, ballance:   306650
+Day 578 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:     731, currently infected:    6608, total fully vaccined: 5956055, recovered: 1689309, ballance:   303775
+Day 579 - vaccination required: current guests:    16/   26, occupancy: 0.615385, newly infected:     923, currently infected:    6977, total fully vaccined: 5963497, recovered: 1689863, ballance:   300900
+Day 580 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     822, currently infected:    7356, total fully vaccined: 5971180, recovered: 1690306, ballance:   300825
+Day 581 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     556, currently infected:    7608, total fully vaccined: 5979132, recovered: 1690610, ballance:   337150
+Day 582 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     317, currently infected:    7743, total fully vaccined: 5980667, recovered: 1690792, ballance:   334275
+Day 583 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:     803, currently infected:    8059, total fully vaccined: 5981528, recovered: 1691279, ballance:   336300
+Day 584 - vaccination required: current guests:    20/   26, occupancy: 0.769231, newly infected:    1106, currently infected:    8568, total fully vaccined: 5987091, recovered: 1691876, ballance:   362825
+Day 585 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:    1048, currently infected:    9091, total fully vaccined: 5992152, recovered: 1692401, ballance:   372550
+Day 586 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:     997, currently infected:    9604, total fully vaccined: 5997307, recovered: 1692885, ballance:   369675
+Day 587 - vaccination required: current guests:    19/   26, occupancy: 0.730769, newly infected:    1013, currently infected:   10121, total fully vaccined: 6002552, recovered: 1693381, ballance:   366800
+Day 588 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:     669, currently infected:   10379, total fully vaccined: 6009165, recovered: 1693792, ballance:   365325
+Day 589 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:     335, currently infected:   10458, total fully vaccined: 6010815, recovered: 1694048, ballance:   384850
+Day 590 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:    3925, currently infected:   13715, total fully vaccined: 6011644, recovered: 1694716, ballance:   385475
+Day 591 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:    1529, currently infected:   14774, total fully vaccined: 6016047, recovered: 1695186, ballance:   382600
+Day 592 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:    1096, currently infected:   15139, total fully vaccined: 6020040, recovered: 1695917, ballance:   397925
+Day 593 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:    1535, currently infected:   15751, total fully vaccined: 6024216, recovered: 1696840, ballance:   397150
+Day 594 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:    1785, currently infected:   16714, total fully vaccined: 6029158, recovered: 1697662, ballance:   413875
+Day 595 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:    1169, currently infected:   17327, total fully vaccined: 6035286, recovered: 1698218, ballance:   412400
+Day 596 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:     791, currently infected:   17801, total fully vaccined: 6036801, recovered: 1698535, ballance:   409525
+Day 597 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:    2530, currently infected:   19528, total fully vaccined: 6037853, recovered: 1699338, ballance:   416450
+Day 598 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:    3269, currently infected:   21691, total fully vaccined: 6041944, recovered: 1700444, ballance:   435975
+Day 599 - vaccination required: current guests:    19/   26, occupancy: 0.730769, newly infected:    3293, currently infected:   23936, total fully vaccined: 6044028, recovered: 1701492, ballance:   437300
+Day 600 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:    3638, currently infected:   26577, total fully vaccined: 6048470, recovered: 1702489, ballance:   442825
+Day 601 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:    4244, currently infected:   29808, total fully vaccined: 6054056, recovered: 1703502, ballance:   439950
+Day 602 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:    2768, currently infected:   31907, total fully vaccined: 6060554, recovered: 1704171, ballance:   444075
+Day 603 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:    1829, currently infected:   33401, total fully vaccined: 6062753, recovered: 1704506, ballance:   444700
+Day 604 - vaccination required: current guests:    18/   26, occupancy: 0.692308, newly infected:    4265, currently infected:   33741, total fully vaccined: 6064525, recovered: 1708431, ballance:   471225
+Day 605 - vaccination required: current guests:    20/   26, occupancy: 0.769231, newly infected:    6307, currently infected:   38519, total fully vaccined: 6070316, recovered: 1709960, ballance:   485150
+Day 606 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:    5842, currently infected:   43265, total fully vaccined: 6076847, recovered: 1711056, ballance:   482275
+Day 607 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:    4385, currently infected:   46115, total fully vaccined: 6084239, recovered: 1712591, ballance:   479400
+Day 608 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:    5735, currently infected:   50065, total fully vaccined: 6085907, recovered: 1714376, ballance:   476525
+Day 609 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:    5081, currently infected:   53977, total fully vaccined: 6093866, recovered: 1715545, ballance:   475050
+Day 610 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:    2752, currently infected:   55938, total fully vaccined: 6096779, recovered: 1716336, ballance:   482675
+Day 611 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:    7637, currently infected:   61045, total fully vaccined: 6099249, recovered: 1718866, ballance:   480500
+Day 612 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:    9936, currently infected:   67712, total fully vaccined: 6106930, recovered: 1722135, ballance:   477625
+Day 613 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:    9480, currently infected:   73899, total fully vaccined: 6114474, recovered: 1725428, ballance:   505550
+Day 614 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:    8447, currently infected:   78708, total fully vaccined: 6121761, recovered: 1729066, ballance:   502675
+Day 615 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:    9241, currently infected:   83705, total fully vaccined: 6129923, recovered: 1733310, ballance:   508200
+Day 616 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:    5766, currently infected:   86703, total fully vaccined: 6141184, recovered: 1736078, ballance:   505325
+Day 617 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:    2997, currently infected:   87871, total fully vaccined: 6144233, recovered: 1737907, ballance:   502450
+Day 618 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:    9282, currently infected:   92888, total fully vaccined: 6146663, recovered: 1742172, ballance:   510775
+Day 619 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:   14579, currently infected:  101160, total fully vaccined: 6154286, recovered: 1748479, ballance:   510700
+Day 620 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:   13536, currently infected:  108854, total fully vaccined: 6161566, recovered: 1754321, ballance:   508525
+Day 621 - vaccination required: current guests:    16/   26, occupancy: 0.615385, newly infected:   10414, currently infected:  114883, total fully vaccined: 6168933, recovered: 1758706, ballance:   505650
+Day 622 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:   14237, currently infected:  123385, total fully vaccined: 6178023, recovered: 1764441, ballance:   522375
+Day 623 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:    9199, currently infected:  127503, total fully vaccined: 6190785, recovered: 1769522, ballance:   525100
+Day 624 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:    5670, currently infected:  130421, total fully vaccined: 6194642, recovered: 1772274, ballance:   522225
+Day 625 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:   11554, currently infected:  134338, total fully vaccined: 6197640, recovered: 1779911, ballance:   534050
+Day 626 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:   22585, currently infected:  146987, total fully vaccined: 6208318, recovered: 1789847, ballance:   531175
+Day 627 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:   14186, currently infected:  151693, total fully vaccined: 6220223, recovered: 1799327, ballance:   528300
+Day 628 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:   13416, currently infected:  156662, total fully vaccined: 6223776, recovered: 1807774, ballance:   526125
+Day 629 - vaccination required: current guests:    19/   26, occupancy: 0.730769, newly infected:   23033, currently infected:  170454, total fully vaccined: 6235425, recovered: 1817015, ballance:   525350
+Day 630 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:   14442, currently infected:  179130, total fully vaccined: 6252373, recovered: 1822781, ballance:   527375
+Day 631 - vaccination required: current guests:    18/   26, occupancy: 0.692308, newly infected:   22778, currently infected:  198911, total fully vaccined: 6257335, recovered: 1825778, ballance:   530100
+Day 632 - vaccination required: current guests:    14/   26, occupancy: 0.538462, newly infected:       0, currently infected:  189629, total fully vaccined: 6261097, recovered: 1835060, ballance:   527225
+Day 633 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:   25949, currently infected:  200999, total fully vaccined: 6275163, recovered: 1849639, ballance:   529950
+Day 634 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:   18046, currently infected:  205509, total fully vaccined: 6288346, recovered: 1863175, ballance:   527075
+Day 635 - vaccination required: current guests:    21/   26, occupancy: 0.807692, newly infected:   27793, currently infected:  222888, total fully vaccined: 6304146, recovered: 1873589, ballance:   526300
+Day 636 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:   20417, currently infected:  229068, total fully vaccined: 6319106, recovered: 1887826, ballance:   569625
+Day 637 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:   22106, currently infected:  241975, total fully vaccined: 6338125, recovered: 1897025, ballance:   572350
+Day 638 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:       0, currently infected:  236305, total fully vaccined: 6343637, recovered: 1902695, ballance:   569475
+Day 639 - vaccination required: current guests:    24/   26, occupancy: 0.923077, newly infected:   17662, currently infected:  242413, total fully vaccined: 6346762, recovered: 1914249, ballance:   569400
+Day 640 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:   22042, currently infected:  241870, total fully vaccined: 6360358, recovered: 1936834, ballance:   566525
+Day 641 - vaccination required: current guests:    22/   26, occupancy: 0.846154, newly infected:   21205, currently infected:  248889, total fully vaccined: 6371507, recovered: 1951020, ballance:   567850
+Day 642 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:   18683, currently infected:  254156, total fully vaccined: 6383851, recovered: 1964436, ballance:   564975
+Day 643 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:   17743, currently infected:  248866, total fully vaccined: 6396242, recovered: 1987469, ballance:   562100
+Day 644 - vaccination required: current guests:    25/   26, occupancy: 0.961538, newly infected:   11006, currently infected:  245430, total fully vaccined: 6411640, recovered: 2001911, ballance:   559225
+Day 645 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:    6346, currently infected:  228998, total fully vaccined: 6415549, recovered: 2024689, ballance:   559150
+Day 646 - vaccination required: current guests:    26/   26, occupancy: 1.000000, newly infected:   15599, currently infected:  244597, total fully vaccined: 6417862, recovered: 2024689, ballance:   556275
+Day 647 - vaccination required: current guests:    19/   26, occupancy: 0.730769, newly infected:   19546, currently infected:  238194, total fully vaccined: 6429243, recovered: 2050638, ballance:   553400
+Day 648 - vaccination required: current guests:    23/   26, occupancy: 0.884615, newly infected:   16229, currently infected:  236377, total fully vaccined: 6441025, recovered: 2068684, ballance:   558925
+Day 649 - vaccination required: current guests:    13/   26, occupancy: 0.500000, newly infected:        , currently infected:  208584, total fully vaccined: 6446769, recovered: 2096477, ballance:   556050
+Výnos: 556050
++----------------------------------------------------------+
+| STATISTIC Daily rejected guests                          |
++----------------------------------------------------------+
+|  Min = 0                       Max = 41                  |
+|  Time = 0 - 649                                          |
+|  Number of records = 650                                 |
+|  Average value = 5.7057                                  |
++----------------------------------------------------------+
++----------------------------------------------------------+
+| STATISTIC Daily sales                                    |
++----------------------------------------------------------+
+|  Min = 0                       Max = 91000               |
+|  Time = 0 - 649                                          |
+|  Number of records = 650                                 |
+|  Average value = 3736.21                                 |
++----------------------------------------------------------+
++----------------------------------------------------------+
+| STATISTIC Occupancy                                      |
++----------------------------------------------------------+
+|  Min = 0                       Max = 1                   |
+|  Time = 0 - 649                                          |
+|  Number of records = 650                                 |
+|  Average value = 0.528742                                |
++----------------------------------------------------------+
+#
+# SIMLIB run-time statistics:
+#    StartTime  = 0
+#    EndTime    = 649
+#    EventCount = 650
+#    StepCount  = 0
+#

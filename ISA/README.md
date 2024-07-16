@@ -1,0 +1,2 @@
+## Network Applications and Network Administration
+Generation of NetFlow data from captured network traffic - implement a NetFlow exporter that creates NetFlow records from the captured network data in pcap format, which it sends to the collector.

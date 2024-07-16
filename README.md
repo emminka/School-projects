@@ -41,3 +41,30 @@ Principles of Programming Languages
 
 ### IZU:
 Fundamentals of Artificial Intelligence
+
+### ISS:
+Signals and Systems
+
+### IMP:
+Microprocessors and Embedded Systems
+
+### IMS:
+Modelling and Simulation
+
+### IIS:	
+Information Systems
+
+### ISA:
+Network Applications and Network Administration
+
+### BIF:
+Bioinformatics
+
+### PRL:
+Parallel and Distributed Algorithms
+
+### FLP:
+Functional and Logic Programming
+
+### BIN:
+Bio-Inspired Computers

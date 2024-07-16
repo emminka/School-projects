@@ -1,0 +1,24 @@
+## FLP projekt 2 - Rubikova kostka
+Emma Krompaščíková
+xkromp00
+LS 2023/2024
+
+### Použitie
+- **make** - skompiluje projekt
+- **make clean** - odstráni archív a binárne súbory
+- **make pack** - vytvorí súbor zip s dôležitými súbormi
+
+### Implementácia
+
+#### Kocka
+Implementujem 9 predikátov pre každý z možných pohybov zo zadania. Otočenie do opačnej strane je implementované pomocou výmeny prvého a druhého parametra. Kocka je reprezentovaná ako multidimenzionálne pole o veľkosti 6x3x3.
+
+#### Prehľadávanie
+Na prehľadávanie je použitý algoritmus IDS, ktorý je započatý predikátom `ids_start`. Na generovanie všetkých možných pohybov je použitý vstavaný predikát `findall`.
+
+### Priložené súbory
+Sú priložené 4 vstupné súbory. Uvedené doby trvania sú zo serveru merlin.
+- **kocka1.txt** - vyriešenie kocky na jeden ťah, trvanie 0m0.019s
+- **kocka2.txt** - vyriešenie kocky na dva ťahy, trvanie 0m0.024s
+- **kocka3.txt** - vyriešenie kocky na tri ťahy, trvanie 0m0.283s
+- **kocka4.txt** - vyriešenie kocky na štyri ťahy, trvanie 0m1.038s

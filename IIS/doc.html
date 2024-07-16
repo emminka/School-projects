@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Projekt IIS</title>
+    <style type="text/css">
+    	table { border-collapse: collapse; }
+    	td, th { border: 1px solid black; padding: 0.3em 0.5em; text-align: left; }
+    	dt { font-weight: bold; margin-top: 0.5em; }
+    </style>
+</head>
+<body>
+
+<!-- Zkontrolujte prosím nastavení kódování v hlavičce dokumentu 
+     podle použitého editoru -->
+
+<h1>Fituška-v2: sdílení a řešení testových otázek studenty</h1> <!-- Nahradte názvem svého zadání -->
+
+<dl>
+	<dt>Autoři</dt>
+	<dd>Samuel Olekšák <!-- Nahraďte skutečným jménem a e-mailem autora a popisem činnosti -->
+	    <a href="mailto:xoleks00@stud.fit.vutbr.cz">xoleks00@stud.fit.vutbr.cz</a> -
+		front-end, server setup, SQL dotazy, autentifikácia
+	</dd>
+	<dd>Emma Krompaščíková <!-- Nahraďte skutečným jménem a e-mailem autora a popisem činnosti -->
+	    <a href="mailto:xkromp00@stud.fit.vutbr.cz">xkromp00@stud.fit.vutbr.cz</a> - 
+		návrh schémy databáze, ukážkové dáta, SQL dotazy, QA
+	</dd>
+  <dd>Michal Findra <!-- Nahraďte skutečným jménem a e-mailem autora a popisem činnosti -->
+	    <a href="mailto:xfindr00@stud.fit.vutbr.cz">xfindr00@stud.fit.vutbr.cz</a> - 
+		nahrávanie obrázkov na server, SQL dotazy
+	</dd>
+	<dt>URL aplikace</dt>
+	<dd><a href="https://fituska.herokuapp.com/">https://fituska.herokuapp.com/</a></dd>
+</dl>
+
+<h2>Uživatelé systému pro testování</h2>
+<p>Uveďte prosím existující zástupce <strong>všech rolí uživatelů</strong>.</p>
+<table>
+<tr><th>Login</th><th>Heslo</th><th>Role</th></tr>
+<tr><td>leSamo</td><td>password</td><td>Administrátor</td></tr>
+<tr><td>emm</td><td>password</td><td>Moderátor</td></tr>
+<tr><td>Tatya</td><td>password</td><td>Používateľ</td></tr>
+</table>
+
+<p>Sú implementované prípady užitia definované zadaním</p> 
+
+<h2>Implementácia</h2>
+
+<h3>Hosting</h3>
+<p>
+    Informačný systém používa Heroku hosting s PostgreSQL add-on.
+</p>
+
+<h3>Server</h3>
+<p>
+	Server beží na node.js s frameworkom Express, na vytváranie HTTP žiadostí na front-ende sa používa knižnica Axios.
+	Endpointy sú spravované skriptom server.js, ktorý komunikuje s databázou. Z jednotlivých endpointov sú následne v skriptoch pre konkrétnu stránku získavané dáta. <br>
+
+	<b>Príklad: </b>Endpoint /allUsers vracia v JSON formáte zoznam užívateľov a informácie o ňom (id, meno, body, čas poslednej aktivity, ...). <br>
+	Táto odpoveď je následne spracovaná skriptom UsersManagementPage.js, kde sú jednotlivé dáta spracované a zobrazené podľa požiadavky(poradie, obmedzenie vyplyvajúce z role používateľa, etc.). <br>
+</p>
+
+<h3>Front-end</h3>
+<p>
+	Front-end je vytvorený za pomoci frameworku React. Pre každú podstránku knižnica React Router poskytuje jeden komponent reprezentujúci celú stránku. Stránkové komponenty (napr. UsersManagementPage) ďalej používajú menšie univerzálnejšie podkomponenty (napr. Table)
+	Taktiež je použitý dizajnový systém <a href="https://www.patternfly.org/v4/">Patternfly 4</a>, ktorý poskytuje elementárne komponenty (Breadcrumb, TextArea, Modal, ...) s jednotným štýlom.
+</p>
+
+<h3>Autentifikácia</h3>
+<p>
+	Na autentifikáciu je použitý JWT, jeho kontrolu na serveri zabezpečuje knižnica 'jsonwebtoken'. Na šifrovanie hesiel na uloženie do databázy je použitá knižnica 'bcrypt'.
+</p>
+
+<h3>Používatelia</h3>
+<p>
+    <b>Role:</b><br> 
+    V systéme môžu mať užívatelia jednu z troch rolí: Používateľ, Moderátor a Admin. <br>
+    &emsp; <b>Používateľ:</b><br>
+        Neprihlásený užívateľ si môže vytvoriť účet, prezerať kurzy s otázkami a odpoveďami, prezerať rebríčky užívateľov pri jednotlivých predmetoch alebo globálne a profily jednotlivých užívateľov. <br>
+        Po prihlásení si môže prihlásiť a odhlásiť kurzy a v prihlásených kurzoch môže písať otázky a odpovede. Môže založiť nový kurz, ktorý musí potvrdiť Moderátor alebo Administrátor. <br>
+        V prihlásených kurzoch môže aj hodnotiť otázky kladne alebo záporne. Po uzatvorení otázky Autorom kurzu, sú body za odpoveď pripočítané jednotlivým autorom. <br>
+        Môže hľadať v otázkach. <br>
+        
+    &emsp; <b>Moderátor:</b><br>
+        Môže vykonávať funkcie ako užívateľ a naviac môže schvaľovať a zamietať kurzy. <br>
+        Môže pridávať a vymazávať kategórie otázok(bakalárka, polsemestrálka, ...). <br>
+
+    &emsp; <b>Admin:</b><br>
+        Môže vykonávať funkcie ako Užívateľ a Moderátor. <br>
+        Môže odstrániť užívateľa zo systému. <br>       
+</p>
+
+
+    Karta Môj profil: <br>
+    V karte Môj profil, je možné si prezerať osobné informácie o užívateľovi(začiatok štúdia, body, počet otázok a odpovedí, rolu, čas prvého a posledného prihlásenia), získané odznaky, kurzy schválené používateľom. <br>
+    <br>
+
+    Používateľom dosiahnuté úspechy: <br>
+    Po získaní určitého úspechu ako je napríklad 10 uznaných odpovedí alebo získanie 100 bodov sa používateľovi v karte Môj profil, odomkne odznak, ktorý si môže zobraziť pri mene. <br>
+    Ak používateľ vlastní viac odznakov, môže si v karte Môj profil vybrať odznak, ktorý chce mať zobrazí pri mene. <br><br>
+
+    
+</p>
+
+<h3>Databáza</h3>
+<p>
+    Dátový server je implementovaný použitím PostgreSQL. <br> 
+    Obrázky sú v databáze ukladané v base64 formáte, čoho dôsledkom je aj lepšia prenosnosť.
+
+</p>
+
+<img style="width:75%; padding: 50px;" src="Diagram.png" alt="diagram"><br>
+
+<h2>Instalace</h2>
+Na lokálne spustenie servera je potrebný <a href="https://nodejs.org/en/">node.js</a> verzie 14 a PostreSQL verzia 14. Pred spustením serveru je potrebné do súboru server.js doplniť prihlasovacie údaje na lokálne bežiacu databázu. Vytvorenie schémy a vzťahov v databáze je implementované v skripte database_create.sql. Schéma databázy je popísaná a zobrazená v časti Databáza. <br>
+Na naplnenie databázy inicializačnými dátami je používaný skript database_initial.sql. Aplikačné závislosti sa nainštalujú príkazom 'npm install', aplikácia sa zostaví príkazom 'npm run build' a server sa spustí príkazom 'npm run start'.  Následne bude webstránka dostupná
+na adrese 'localhost:5000'.
+
+<h2>Známe problémy</h2>
+Žiadne.
+
+</body>
+</html>
