@@ -1,34 +1,40 @@
-## Emma Krompaščíková - School projects
+## Emma Krompašíková - School projects
 
-### IEL:
-Electronics for Information Technology
+### AVS:
+Computation Systems Architectures
 
-### IUS:
-Introduction to Software Engineering
+### BIF:
+Bioinformatics
 
-### INC:
-Digital Systems Design
+### BIN:
+Bio-Inspired Computers
 
-### IZG:
-Computer Graphics Principles
-
-### IZP:
-Introduction to Programming Systems
-
-### ITU:
-User Interface Programming
-
-### IVS:
-Practical Aspects of Software Design
+### FLP:
+Functional and Logic Programming
 
 ### IAL:
 Algorithms
 
-### INP:
-Design of Computer Systems
-
 ### IDS:
 Database Systems
+
+### IEL:
+Electronics for Information Technology
+
+### IIS:
+Information Systems
+
+### IMP:
+Microprocessors and Embedded Systems
+
+### IMS:
+Modelling and Simulation
+
+### INC:
+Digital Systems Design
+
+### INP:
+Design of Computer Systems
 
 ### IOS:
 Operating Systems
@@ -39,32 +45,32 @@ Computer Communications and Networks
 ### IPP:
 Principles of Programming Languages
 
-### IZU:
-Fundamentals of Artificial Intelligence
+### ISA:
+Network Applications and Network Administration
 
 ### ISS:
 Signals and Systems
 
-### IMP:
-Microprocessors and Embedded Systems
+### ITU:
+User Interface Programming
 
-### IMS:
-Modelling and Simulation
+### IUS:
+Introduction to Software Engineering
 
-### IIS:	
-Information Systems
+### IVS:
+Practical Aspects of Software Design
 
-### ISA:
-Network Applications and Network Administration
+### IZG:
+Computer Graphics Principles
 
-### BIF:
-Bioinformatics
+### IZP:
+Introduction to Programming Systems
+
+### IZU:
+Fundamentals of Artificial Intelligence
 
 ### PRL:
 Parallel and Distributed Algorithms
 
-### FLP:
-Functional and Logic Programming
-
-### BIN:
-Bio-Inspired Computers
+### ZZN:
+Knowledge Discovery in Databases
