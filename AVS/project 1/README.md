@@ -1,0 +1,3 @@
+## Computation Systems Architectures - project 1 - Vectorization
+Project focuses on optimizing Mandelbrot set computation through loop restructuring and AVX-512 vectorization, analyzed using Intel Advisor. Performance testing was conducted on an HPC cluster (Intel Xeon with AVX-512 support) using Intel Compiler optimizations, with cross-validation on local systems via GCC.
+This repo showcases only files I modified in the larger project. Full codebase not included due to academic constraints.

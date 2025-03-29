@@ -1,0 +1,60 @@
+#### Stručně ale věcně odpovězte na následující otázky: ######
+
+1. Jaká byla dosažena výkonnost v Intel Advisoru pro implementace ref, line a batch
+(v GFLOPS)? (0.5b)
+==============================================================================
+ref 0.719 GFLOPS
+line 19.812 GFLOPS
+batch 12.765 GFLOPS
+
+
+2. Porovnejte implementaci referenčního rešení oproti "Line" a "Batch" implementaci. 
+Jakým způsobem jsou načítána data, proč, a jaký to má vliv na výkon. (1b)
+==============================================================================
+Implementácia v referenčnom riešení spracováva prvky jednotlivo, čo vedie k pomalému výkonu, 
+keďže nevyužíva možnosti vektorizácie. Výpočty pre každý prvok sa vykonávajú postupne, čo 
+spôsobuje veľa prístupov do pamäte a obmedzuje efektivitu.
+Implementácia Line využíva SIMD paralelizáciu po riadkoch, kde sa všetky prvky jedného riadku 
+spracovávajú naraz. Tento prístup minimalizuje počet prístupov do pamäte a zvyšuje výkon,
+pretože umožňuje vektorizovať výpočty a efektívnejšie využiť SIMD inštrukcie.
+Batch spracováva dáta v malých skupinách - batchoch. Je to výhodné , lebo sa zmestia do cache.
+Efektívnejšie využíva pamäť, čím dosahuje vyšší výkon. Načítanie dát po batchoch znižuje pamäťové prístupy.
+
+
+3. Porovnejte Roofline všech modelů. Jsou implementace memory 
+bound? Jaká je vaše aritmetická intenzita? Dokázali byste ji přibližně spočítat 
+i ručně a jak? (1b)
+==============================================================================
+Aritmetickú intenzitu vieme vyčítať z Intel Advisor z časti 'Code Analytics' pri Roofline.
+Pre ref je to 0.167 FLOP/Byte, pre line je to 0.612 FLOP/Byte a pre batch je to 0.603 FLOP/Byte.
+Vedeli by sme to vypočítať aj ručne, lebo aritmetická intenzita sa počíta ako
+pomer výpočtových operácií k prístupom do pamäti. Pre batch aj line je to "mostly memory bound
+but may also be compute bound".
+Ref je najnižšia, pretože výpočet jedného prvku je menej náročný, ale je vykonávaný častejšími 
+prístupmi do pamäte. Navyše, dáta sú uložené priamo v hlavnej pamäti, čo zvyšuje náročnosť
+prístupov a zápisov. Implementácie Line a Batch sú efektívnejšie v práci s cache,
+čo urýchľuje prístup k dátam. Výpočty týchto implementácií sú však náročnejšie, 
+pričom rozdiel medzi týmito prístupmi spočíva v tom, že Line pracuje po riadkoch, 
+zatiaľ čo Batch spracováva menšie bloky dát (batch), čo zlepšuje využitie cache.
+
+4. Komentujte vliv velikosti cache na výkonnost a chování na větších 
+velikostech domény. (1b)
+==============================================================================
+Veľkosť cache má zásadný vplyv na výkonnosť, najmä pri spracovaní veľkých domén. 
+Ak sa dáta zmestia do cache, prístup k nim je veľmi rýchly, čo výrazne zlepšuje výkon, 
+pretože procesor sa vyhne častému prístupu k pomalšej RAM. Pri väčších doménach, kde 
+množstvo dát presahuje kapacitu cache, dochádza k spomaleniu, keďže procesor musí 
+neustále načítavať dáta z hlavnej pamäte. Keď má implementácia typu line dlhý riadok,
+tak sa nám nemusí vojsť do cache.
+
+5. Jaký vliv na výkonnost má symetrie? Lze tento rozdíl pozorovat v Intel Advisor? 
+(nápověda: instrukce) (0.5b)
+============================================================================== 
+Symetria výrazne zlepšuje výkonnosť tým, že znižuje počet výpočtov. 
+Umožňuje vypočítať iba hornú polovicu obrazu a zrkadliť výsledky, čím sa ušetrí 
+približne polovica operácií. To vedie k nižšej záťaži na pamäť a rýchlejšiemu spracovaniu dát. 
+V Intel Advisor je tento rozdiel viditeľný cez zníženie počtu inštrukcií, čo vedie k vyššej 
+efektivite a zrýchleniu výpočtov. Konkrétne v časti 'Code Analytics' vidime, že 
+ref nevyužíva žiadnu symetriu, čo vedie k vysokému počtu výpočtových inštrukcií - 17 556 204 720 inštrukcií,
+line využíva symetriu a počet inštrukcií je 3 345 497 426
+a pri batch je to s využitím symetrie 171 699 516 inštrukcií.

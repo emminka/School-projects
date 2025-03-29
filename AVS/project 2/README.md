@@ -1,0 +1,3 @@
+## Computation Systems Architectures - project 2
+This project implements a parallelized Marching Cubes algorithm using OpenMP, with hierarchical spatial optimization via Octree for efficient empty-space elimination. Performance was profiled using Intel VTune on an HPC cluster (Intel Xeon CPUs, AVX-512 support), with local development and validation done via GCC.
+This repo showcases only files I modified in the larger project. Full codebase not included due to academic constraints.
